@@ -1,4 +1,4 @@
-# Resuable-N95-Project
+# Reusable-N95-Project
 ## Urgent design, testing, distribution, guideline in light of disrupted N95 supply to COVID-19 era Canada
 Back-up plan for stop-gap N95 depletion in Ontario, Canada
 Reuse of N95 preferred at this stage
