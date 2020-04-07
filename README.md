@@ -56,11 +56,11 @@ Mukesh Bhargava (Director)
 
 ## Funding
 ### Ontario Together initiative to help fight COVID-19, 
-  12 noon, 9 April 2020
+  deadline: 12 noon, 9 April 2020
   margaret.kinyanjui@uhnresearch.ca with internal template and actual application
 ### UHN AMO Due 4pm, 9 April 2020
   Not preferred until workable solution is made (i.e. ready for scaled up production)
-  The proposal and budget submitted as PDF and emailed  to Richard Getty (richard.getty@uhn.ca) by 4:00pm April 9, 2020.
+  The proposal and budget submitted as PDF and emailed  to Richard Getty (richard.getty@uhn.ca) by 4pm, 9 April, 2020.
 ### Other Sources
 ### Community
 Li Zhang (GLIA volunteer) to raise awareness and medium-term community funding
