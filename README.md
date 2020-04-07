@@ -1,4 +1,5 @@
-Author:      William Ng et al.
+Author: William Ng et al.
+
 Last update: 6 April 2020
 
 # Reusable-N95-Project
