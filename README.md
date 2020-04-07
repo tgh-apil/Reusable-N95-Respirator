@@ -18,6 +18,10 @@ Reuse of N95 preferred at this stage by decontamination (VPHP, UVGI, Heat)
 ### Intermountain 3D (I3D) modification of Montana
 - website: https://www.intermountain3d.com/covid-respirators.html
 
+### NIH released open sources
+- https://3dprint.nih.gov/collections/covid-19-response
+- many variations to choose from, apart form the above, which have gained traction and use in several hospitals
+
 ## Prototype
 - I3D XS, S, M prototypes built
 - Iteration required
