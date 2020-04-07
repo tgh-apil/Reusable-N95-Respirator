@@ -1,37 +1,48 @@
+Author:      William Ng et al.
+Last update: 6 April 2020
+
 # Reusable-N95-Project
 ## Urgent design, testing, distribution, guideline in light of disrupted N95 supply to COVID-19 era Canada
-Back-up plan for stop-gap N95 depletion in Ontario, Canada
+Back-up stop-gap plan for N95 depletion in Ontario, Canada
 
-Reuse of N95 preferred at this stage
+Reuse of N95 preferred at this stage by decontamination (VPHP, UVGI, Heat)
 
 ## Repo of CAD (and other big files)
 https://www.dropbox.com/sh/exq93iisr1vuk3s/AACLyBetassTvupc8qk6WR29a?dl=0
 
 ## Options
 ### Montana 3D
-Instagram#MakeTheMask
+Instagram #MakeTheMask
 
 ### Intermountain 3D (I3D) modification of Montana
-
+https://www.intermountain3d.com/covid-respirators.html
 
 ## Prototype
+I3D XS, S, M prototypes built
+Iteration required
 
 ## Local Testing
+### Form fit test
 ### Bitrex Testing
+Functional Test as form any in-person testing using "spray under the hood"
 ### Decontamination
+- Designs ideally be washable in chlorox 1:10 (as for faceshields) and dried
+- Will eventually need microbiology to chip in
 
 ## Design, Production, Testing at Ontario Level
 ### Industry and NHH
-Brian Read
+Brian Read (ex-plastcs; co-ord); 
 ### UHN APIL
-Joshua Hiansen
-Vahid Anwari
+Joshua Hiansen;
+Vahid Anwari;
 ### UofT
-Azad Mashari
-Matt Ratto
-James Scott
-Andrew Syrett
+Azad Mashari;
+Matt Ratto;
+James Scott;
+Andrew Syrett;
 William Ng
+### NHH (Northumberland Hills Hospital)
+Mukesh Bhargava (Director)
 
 ## Regulation
 ### NIOSH
@@ -52,6 +63,7 @@ William Ng
   The proposal and budget submitted as PDF and emailed  to Richard Getty (richard.getty@uhn.ca) by 4:00pm April 9, 2020.
 ### Other Sources
 ### Community
+Li Zhang (GLIA volunteer) to raise awareness and medium-term community funding
 
 ## Long Term
 ### Non-Pandemic Use
