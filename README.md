@@ -1,6 +1,6 @@
 Author: William Ng et al.
 
-Last update: 6 April 2020
+Last update: 7 April 2020
 
 # Reusable-N95-Project
 ## Urgent design, testing, distribution, guideline in light of disrupted N95 supply to COVID-19 era Canada
@@ -24,10 +24,15 @@ Reuse of N95 preferred at this stage by decontamination (VPHP, UVGI, Heat)
 
 ## Prototype
 - I3D XS, S, M prototypes built
+- MOntana S size (only)
+- NIH XS, S, M pending
+- Seal and fit problem
 - Iteration required
 
 ## Local Testing
 ### Form fit test
+- James Scott and Jeff Brook from UofT OHS
+- TBC
 ### Bitrex Testing
 - Functional Test as form any in-person testing using "spray under the hood"
 ### Decontamination
@@ -45,6 +50,7 @@ Azad Mashari;
 Matt Ratto;
 James Scott;
 Andrew Syrett;
+Carla Luzzi;
 William Ng
 ### NHH (Northumberland Hills Hospital)
 Mukesh Bhargava (Director)
