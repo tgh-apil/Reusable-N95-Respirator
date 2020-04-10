@@ -4,14 +4,14 @@ Last: 7 April 2020
 Still nothing FDA approved
 
 #Short-List
-"NIH" Stop-Gap Face Mask; currently only one on NIH exchange that is clinically reviewed.
+NIH "SFM" Stop-Gap Face Mask; currently only one on NIH exchange that is clinically reviewed.
 https://3dprint.nih.gov/discover/3dpx-013429
 
 Billings, Montana
 https://www.makethemasks.com
 tested and used Billings Clinic, MT; ? in Utah; Kaiser San Diego;
 
-Intermountain3D
+Intermountain3D - modified Montana with flat rim
 https://www.intermountain3d.com/covid-respirators.html
 ask about files: SLS printing and assembly, lynn@intermountain3d.com
 
