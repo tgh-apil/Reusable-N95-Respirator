@@ -1,9 +1,9 @@
 Orig: Will Ng
-Last: 7 April 2020
+Last: 10 April 2020
 
 Still nothing FDA approved
 
-#Short-List
+# Short-List
 NIH "SFM" Stop-Gap Face Mask; currently only one on NIH exchange that is clinically reviewed.
 https://3dprint.nih.gov/discover/3dpx-013429
 
@@ -17,7 +17,7 @@ ask about files: SLS printing and assembly, lynn@intermountain3d.com
 
 _____
 
-#Short-list criteria
+# Short-list criteria
 1) Open Source
 2) 3D printable with availble printers (to us)
 3) Clinically tested 
@@ -26,15 +26,18 @@ _____
 
 ____
 
-#Government statements
+# Government statements
 FDA:
-"https://www.fda.gov/medical-devices/3d-printing-medical-devices/"
-"faqs-3d-printing-medical-devices-accessories-components-and-parts-during-covid-19-pandemic"
+"https://www.fda.gov/medical-devices/3d-printing-medical-devices/faqs-3d-printing-medical-devices-accessories-components-and-parts-during-covid-19-pandemic"
 
 HC: 
+https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid-19-unconventional-manufacturing-personal-protective-equipment.html
 
+CDC: 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/index.html
 ____
-Other Types
+
+# Other Types
 Tyvek flat filter
 https://basicrespirator.com
 
