@@ -1,23 +1,57 @@
-Will Ng
-Last update 6 April 2020
+Orig: Will Ng
+Last: 9 April 2020
+
+Models
+- I3D Montana with round edge, XS, S, M
+- Montana, S, M, L
+- NIH "SFM", S, M
 
 Mask
  - Prototype Material was Nylon 12 powder using SLS printer
  - Future Suggestions include: silicone, zotefoams (plastazote/evazote)
  
-Seal Strip
+Rubber Seal Strip for I3D Montana
  - Seal required around rim of mask for comfort and better seal
- - Trial of industrial-grade rubber window seal 
- - "M-D Building Product 3/8-inch(?) x 3/8-inch(?) x 17-ft. Premium All Climate Rubber Gap Seal White"
+ - Trial of industrial-grade rubber window seal
+ - "MD Rubber Window Seal Medium 5/16, 7.9mm base" WS31126
+ - "MD Rubber Window Seal Small 3/8, 9.5mm base" WS31124 [I checked, the base is wider than medium]
  - http://mdbuildingproducts.com/product/38-in-x-200-ft-all-climate-d-strip-weather-strip/
- 
+ - can be sourced from HomeDepot online and picked up.
+
+Silicone Seal strip for NIH, 
+- currently two main ideas, both cast: Rim vs. Inlay
+- Thickness and durometric grade (e.g. eco 00-30) TBC
+- Stethoscope silicone tubing hard meld together (will try over Easter weekend), does not appear comfortable, slips off
+
 Elastic
- - Locally sourced elastic
- - Top strip 
- - Bottom strip
+- Locally sourced elastic
+- Top strip net length <22", needs to be adjustable
+- Bottom strip net length <18", needs to be adjustable
 
 Filter
- - Halyard H600 2 ply autoclaved has been tried, but
- - This needs to be tested and validated for N95 particulate
-  - Alternatives include 3M N95 filters
-  - Hepa fiber glass
+- Gold Standard 3M 5N11 [Matt has given us sample]
+- Woodbridge INOAC N95 filter
+- Halyard H600 2 ply autoclaved has been tried, but high resistance
+- Halyard H300 2 ply is easy to breathe through; this needs to be tested and validated for N95 particulate
+- Hepafiberglass by camfil H&V, very high resistance and needs specification [Matt]
+
+___
+
+Challenge Filters:
+Correspondence w/ CEO of Woodbridge Industries Bob Magee and UHN CEO Kevin Smith 2020-04-09
+"Will ask Japanese partner regarding research." WN
+Correspondence with UHN Human Factors Head, Joe Caffazo, Olivia Zajdman
+"Happy for us to sample some." WN
+
+Corr. Halyard 2020-04-08
+"the NIOSH N95 specification requires a more extensive battery of testing, than the sterilization wraps.  
+One of the key tests - Bacterial Filtration Efficiency - is done for both.  
+Both 3M 95s and  the Halyard H300 and H600 (NOT the H100) have BFE > 99 %.  
+The N95 certification according to NIOSH, however, is based on Particulate Filtration Efficiency 
+with particles of 0.3 microns.  Further, to be a "Surgical N95" - which is designed to protect against 
+pressurized fluids/particles as could be expected with a cough or sneeze, requires Fluid Resistance testing." AS
+"I've reached out to Halyard to request more technical specifications, 
+but they made a point of repeating that they do not recommend that their 
+products be used for anything other than their intended purpose, 
+and they are not tested with the same battery of tests as masks/gowns." AS
+
