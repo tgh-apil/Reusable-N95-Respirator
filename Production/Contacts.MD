@@ -12,7 +12,7 @@ Thomas Looi, MBA
 - 
 
 ## Industry
-Brian Read
+Brian Read baread@eagle.ca
 - ex-CEO of Horizons Plastics, Cobourg
 - Multiple partners and contacts outside of GTA
 - helped print all our samples pro bono
