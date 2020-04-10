@@ -6,7 +6,7 @@ Yu Zou, PhD
 - mse.zou@utoronto.ca
 - Dept Materials Science and Engineering
 
-## CITIGI, SickKids
+## CIGITI, SickKids
 Thomas Looi, MBA
 - thomas.looi@sickkids.ca
 - 
