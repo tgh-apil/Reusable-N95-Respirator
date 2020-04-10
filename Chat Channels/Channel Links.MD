@@ -6,11 +6,12 @@ William Ng, UHN UofT Dept Anesthesia and Pain Management
 william.ng@uhn.ca
 
 Coordinators
-andrew.syrett@medportal.ca
-carla.luzzi@uhn.ca
+Andrew Syrett andrew.syrett@medportal.ca
 
-Toronto Emergency Device Accelerator VPRI ISI Chat Channels for workflow:
-Microsoft Teams: email matt.ratto@utoronto.ca
+Carla Luzzi carla.luzzi@uhn.ca
+
+Toronto Emergency Device Accelerator VPRI ISI Chat Channels for workflow by
+Microsoft Teams. email matt.ratto@utoronto.ca
 
 Texting:
 Whatsapp groups. Text Will Ng +18573307399.
