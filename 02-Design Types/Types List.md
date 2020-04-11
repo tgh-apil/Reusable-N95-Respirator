@@ -1,5 +1,5 @@
 Orig: Will Ng
-Last: 10 April 2020
+Last: 11 April 2020
 
 Still nothing FDA approved
 
@@ -24,7 +24,13 @@ _____
 4) Theoretically decontaminable easily
 5) Theoretically suitable for long-hours waer
 
-____
+_____
+# Other-list
+Concordia (Modified Montana) respirator mask
+https://blog.cuw.edu/access-concordias-respirator-mask-3d-print-file/
+has double inner rim, suitable for silicone/rubber gasket seal
+
+_____
 
 # Government statements
 FDA:
