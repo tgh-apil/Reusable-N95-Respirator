@@ -25,15 +25,21 @@ _____
 4) Theoretically decontaminable easily
 5) Theoretically suitable for long-hours waer
 
-_____
-# Other-list
+## Other-list
 Concordia (Modified Montana) respirator mask
 https://blog.cuw.edu/access-concordias-respirator-mask-3d-print-file/
 has double inner rim, suitable for silicone/rubber gasket seal
 
+Basic Respirator Tyvek flat filter
+https://basicrespirator.com
+
+## Design Partners
+Nadir Hassan
+Nadir.Hassan002@gmail.com
+
 _____
 
-# Government statements
+## Government statements
 FDA:
 "https://www.fda.gov/medical-devices/3d-printing-medical-devices/faqs-3d-printing-medical-devices-accessories-components-and-parts-during-covid-19-pandemic"
 
@@ -42,9 +48,4 @@ https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-de
 
 CDC: 
 https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/index.html
-____
-
-# Other Types
-Tyvek flat filter
-https://basicrespirator.com
 
