@@ -1,7 +1,8 @@
 Orig: Will Ng
+
 Last: 11 April 2020
 
-Still nothing FDA approved
+Still nothing FDA of HC approved
 
 # Short-List
 NIH "SFM" Stop-Gap Face Mask; currently only one on NIH exchange that is clinically reviewed.
