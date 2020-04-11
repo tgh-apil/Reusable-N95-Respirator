@@ -20,6 +20,8 @@ Devon Ostrom
 - list of laser cutters and small DYI 3D printers:  http://www.osse.ca
 
 ## Industry
+Woodbridge Industry and INOAC
+
 Brian Read baread@eagle.ca
 - ex-CEO of Horizons Plastics, Cobourg
 - Multiple partners and contacts outside of GTA
