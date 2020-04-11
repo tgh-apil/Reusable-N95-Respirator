@@ -60,6 +60,9 @@ Mukesh Bhargava (Director)
 ### EM UHN
 Sameer Masoud/Masood (Emergency Physician, UHN and Humber). Aim to share filtering knowledge, testing results, combine human factors simulation.
 
+### Queen's Parallel Initiative
+James Garel Jones
+
 ## Regulation
 ### NIOSH
 ### HC and/or FDA
