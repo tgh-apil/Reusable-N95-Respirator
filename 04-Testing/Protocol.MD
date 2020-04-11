@@ -45,7 +45,7 @@ ___
 
 Alternative testing centres: 
 - SickKids Hospital. Dr. Maynes' Lab (Portacount): jason.maynes@sickkids.ca
-- Ontario Power Generation, through Dr. Mukesh Bhargava: mbhargava@nhh.ca
+- Ontario Power Generation X Labs, through Dr. Mukesh Bhargava: mbhargava@nhh.ca
 -- best to have a point of contact for OPG's covid-19 response
 
 ___
