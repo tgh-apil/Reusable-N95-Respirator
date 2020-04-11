@@ -30,12 +30,19 @@ Reuse of N95 preferred at this stage by decontamination (VPHP, UVGI, Heat)
 - Iteration required
 
 ## Local Testing
-### Form fit test
-- James Scott and Jeff Brook from UofT OHS
+### NIOSH test
+- James Scott and Jeff Brook from UofT OS & EH
 - 13 April 2020
 
 ### Bitrex Testing
 - Functional Test as form any in-person testing using "spray under the hood"
+- UHN OHS pending
+- Might need Non-UHN partners SickKids, Queen's University (KHSC?), other
+
+### Other centres through HC
+https://www.intertek.com/canada/ (https://www.intertek.com/scientific-regulatory-consultancy/)
+https://gcttg.com/en/ (textiles transportation geosynthetics)
+http://www.cambridgematerials.com (raw materials)
 
 ### Decontamination
 - Designs ideally be washable in chlorox 1:10 (as for faceshields) and dried
@@ -50,9 +57,10 @@ Joshua Hiansen;
 Vahid Anwari;
 ### UofT
 William Ng; Andrew Syrett; Carla Luzzi; Matt Ratto; Eric Greenwood; James Scott; Azad Mashari
-
+### Sick Kids Research
+Jason Maynes (Portacount lab)
 ### CIGITI
-Thomas Looi
+Thomas Looi (Director), Brandon Peel
 
 ### NHH (Northumberland Hills Hospital)
 Mukesh Bhargava (Director)
