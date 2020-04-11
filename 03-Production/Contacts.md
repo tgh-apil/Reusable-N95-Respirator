@@ -7,9 +7,19 @@ Yu Zou, PhD
 - Dept Materials Science and Engineering
 
 ## CIGITI, SickKids
-Thomas Looi, MBA
+Thomas Looi, PhD, MBA
 - thomas.looi@sickkids.ca
-- 
+
+## UHN
+Tina Meisami
+- tina.meisami@uhn.ca
+- Sewable Mask Development
+
+## Queen's Initiative
+James Garel Jones
+- jamesgareljones@gmail.com
+- Reusable N95
+- Reusable Surgical
 
 ## Industry
 Brian Read baread@eagle.ca
