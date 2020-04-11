@@ -63,7 +63,8 @@ Sameer Masoud/Masood (Emergency Physician, UHN and Humber). Aim to share filteri
 ### Queen's Parallel Initiative
 James Garel Jones
 
-## Regulation
+## Regulation and Testing
+### ISO and CSA
 ### NIOSH
 ### HC and/or FDA
 
