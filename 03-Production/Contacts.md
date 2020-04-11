@@ -15,11 +15,9 @@ Tina Meisami
 - tina.meisami@uhn.ca
 - Sewable Mask Development
 
-## Queen's Initiative
-James Garel Jones
-- jamesgareljones@gmail.com
-- Reusable N95
-- Reusable Surgical
+## Ostrom Medical Engineering
+Devon Ostrom
+- list of laser cutters and small DYI 3D printers:  http://www.osse.ca
 
 ## Industry
 Brian Read baread@eagle.ca
