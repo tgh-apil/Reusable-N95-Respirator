@@ -4,8 +4,8 @@ Last: 12 Apr 2020
 
 #TIMELINE for Reusable N95 Project
 
-Project Manager: Carla Luzzi
-Partners: APIL, CIGITI, Queen's, SickKids Anes, GLIA, Brian (Industry)
+- Project Manager: Carla Luzzi
+- Partners: APIL, CIGITI, Queen's, SickKids Anes, GLIA, Brian (Industry)
 
 ### Lead-up - 6 Apr 2020 
 - NIH S, M Moulds by 10am 13 Apr 2020 [Brandon CIGITI/Will]
