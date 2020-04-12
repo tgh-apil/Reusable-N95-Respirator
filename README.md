@@ -60,17 +60,18 @@ William Ng; Andrew Syrett; Carla Luzzi; Matt Ratto; Eric Greenwood; James Scott;
 ### Sick Kids Research
 Jason Maynes (Portacount lab)
 ### CIGITI
-Thomas Looi (Director), Brandon Peel
+Thomas Looi (Director), Brandon Peel (Design)
 
 ### NHH (Northumberland Hills Hospital)
 Mukesh Bhargava (Director)
 
 ### EM UHN
-Sameer Masoud/Masood (Emergency Physician, UHN and Humber). Aim to share filtering knowledge, testing results, combine human factors simulation.
+Sameer Masoud/Masood (Emergency Physician, UHN and Humber). 
+- Aim to share filtering knowledge, testing results, combine human factors simulation.
 
 ### Queen's Parallel Initiative
-Cesia Quintero & Megan Singh & Matt Snow
-James Garel Jones (VertiGrow, co-designer)
+- Cesia Quintero & Megan Singh & Matt Snow
+- James Garel Jones (VertiGrow, co-designer)
 
 ## Regulation and Testing
 ### ISO and CSA
