@@ -52,8 +52,8 @@ http://www.cambridgematerials.com (raw materials)
 ## Design, Production, Testing at Ontario Level
 ### UofT
 - William Ng (Lead, Anesthesia)
-- Andrew Syrett (Coordinator)
-- Carla Luzzi (Project Manager)
+- Andrew Syrett (Coordinator, Publication)
+- Carla Luzzi (Project Manager, Grant)
 - Matt Ratto (TEDA Director) 
 - Eric Greenwood (SickKids Physician Advisor) 
 - James Scott (OS & EH) 
