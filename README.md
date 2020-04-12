@@ -50,18 +50,24 @@ http://www.cambridgematerials.com (raw materials)
 - Viral testing is a possibility
 
 ## Design, Production, Testing at Ontario Level
-### Industry and NHH
-Brian Read (ex-plastcs; co-ord); 
+### UofT
+- William Ng (Lead, Anesthesia)
+- Andrew Syrett (Coordinator)
+- Carla Luzzi (Project Manager)
+- Matt Ratto (TEDA Director) 
+- Eric Greenwood (SickKids Physician Advisor) 
+- James Scott (OS & EH) 
+- Azad Mashari (Director UHN APIL, Anesthesia)
 ### UHN APIL
 Joshua Hiansen;
 Vahid Anwari;
-### UofT
-William Ng; Andrew Syrett; Carla Luzzi; Matt Ratto; Eric Greenwood; James Scott; Azad Mashari
 ### Sick Kids Research
-Jason Maynes (Portacount lab)
+Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 ### CIGITI
 Thomas Looi (Director), Brandon Peel (Design)
 
+### Industry and NHH
+Brian Read (ex-plastcs; co-ord); 
 ### NHH (Northumberland Hills Hospital)
 Mukesh Bhargava (Director)
 
