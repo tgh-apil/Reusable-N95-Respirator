@@ -52,10 +52,10 @@ http://www.cambridgematerials.com (raw materials)
 ## Design, Production, Testing at Ontario Level
 ### UofT
 - William Ng (Lead, Anesthesia)
-- Andrew Syrett (Coordinator, Publication)
-- Carla Luzzi (Project Manager, Grant)
+- Andrew Syrett (Coordinator, Publications, Anesthesia)
+- Carla Luzzi (Project Manager, Grants, Anesthesia)
 - Matt Ratto (TEDA Director) 
-- Eric Greenwood (SickKids Physician Advisor) 
+- Eric Greenwood (SickKids Physician Advisor, Director of Equipment) 
 - James Scott (OS & EH) 
 - Azad Mashari (Director UHN APIL, Anesthesia)
 ### UHN APIL
