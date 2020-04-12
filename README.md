@@ -72,6 +72,7 @@ Sameer Masoud/Masood (Emergency Physician, UHN and Humber).
 ### Queen's Parallel Initiative
 - Cesia Quintero & Megan Singh & Matt Snow
 - James Garel Jones (VertiGrow, co-designer)
+- Taylor Sweet (YGK 3D, co-designer)
 
 ## Regulation and Testing
 ### ISO and CSA
