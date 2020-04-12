@@ -69,7 +69,8 @@ Mukesh Bhargava (Director)
 Sameer Masoud/Masood (Emergency Physician, UHN and Humber). Aim to share filtering knowledge, testing results, combine human factors simulation.
 
 ### Queen's Parallel Initiative
-James Garel Jones
+Cesia Quintero & Megan Singh & Matt Snow
+James Garel Jones (VertiGrow, co-designer)
 
 ## Regulation and Testing
 ### ISO and CSA
