@@ -39,7 +39,7 @@ Partners: APIL, CIGITI, Queen's, SickKids Anes, GLIA, Brian (Industry)
 - Logistics [GLIA/Will]
 - Dissemination of Information to interested centres [Carla/Andrew]
 
-### Week 4 - 4 May 2020 [ Surge Week]
+### Week 4 - 4 May 2020 [Surge Week]
 - First 1000 units [Brian/Will]
 - UHN Stock for stop-gap [Will/Azad]
 - Project wind-down [Will/GLIA] 
