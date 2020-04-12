@@ -59,8 +59,8 @@ http://www.cambridgematerials.com (raw materials)
 - James Scott (OS & EH) 
 - Azad Mashari (Director UHN APIL, Anesthesia)
 ### UHN APIL
-Joshua Hiansen;
-Vahid Anwari;
+Joshua Hiansen (Design, Print Lead)
+Vahid Anwari (Production, Biomedical Engineer)
 ### Sick Kids Research
 Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 ### CIGITI
