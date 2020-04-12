@@ -1,7 +1,7 @@
 Author: William Ng et al. https://www.anesthesia.utoronto.ca/faculty/william-ck-ng
 Last: 11 April 2020
 
-# Reusable-N95-Project (a UofT-CIGITI-Queen's collaborative)
+# Reusable-N95-Project (an APIL-CIGITI-Queen's-UofT collaborative)
 ## Urgent design, testing, distribution, guideline in light of disrupted N95 supply to COVID-19 era Canada
 Back-up stop-gap plan for N95 depletion in Ontario, Canada
 
@@ -21,7 +21,7 @@ Reuse of N95 preferred at this stage by decontamination (VPHP, UVGI, Heat)
 - https://3dprint.nih.gov/collections/covid-19-response
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
 
-### "Kingston" Mask
+### "Kingston" Mask - Queen's Initiative
 - http://ppekingston.squarespace.com/
 - Modification of Montana with different sizing, filter size, geometry
 
@@ -66,9 +66,9 @@ Joshua Hiansen (Design, Print Lead, /www.linkedin.com/in/joshuaqh/)
 Vahid Anwari (Production, Biomedical Engineer, www.linkedin.com/in/vahid-anwari-3763973)
 ### Sick Kids Research
 Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
-### CIGITI
+### CIGITI - https://www.cigiti.ca
 Thomas Looi (Director), Brandon Peel (Design)
-### Queen's Parallel Initiative
+### Queen's Parallel Initiative - http://ppekingston.squarespace.com/
 - Cesia Quintero & Megan Singh & Matt Snow
 - James Garel Jones (VertiGrow, co-designer)
 - Taylor Sweet (YGK 3D, co-designer)
