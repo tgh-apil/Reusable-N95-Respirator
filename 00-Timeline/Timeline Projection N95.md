@@ -20,8 +20,8 @@ Partners: APIL, CIGITI, Queen's, SickKids Anes, GLIA, Brian (Industry)
 - Bitrex Testing UHN [Will/Azad] by TBC as barriers expected
 - REB [Carla/Jo Carroll] by 16 Apr
 - Ontario Power Generation testing facilities [Leah|Queen's], floating
-- Candidate Refining [Josh/Brandon/Taylor] 16 Apr 
-- Arrange 2nd NIOSH after refinement 17 Apr 
+- Candidate Refining [Josh/Vahid/Brandon/Taylor] 16 Apr 
+- Arrange 2nd NIOSH after refinement 17 Apr [Josh/Vahid/Brandon/Taylor]
 
 ### Week 2 - 20 Apr 2020 [Surge Week, expect Carla, Andrew, Will, Azad down]
 - Decontamination Protocols [Vahid/GLIA]
