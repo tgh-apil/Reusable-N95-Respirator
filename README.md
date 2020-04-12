@@ -1,8 +1,7 @@
-Author: William Ng et al.
-
+Author: William Ng et al. https://www.anesthesia.utoronto.ca/faculty/william-ck-ng
 Last: 11 April 2020
 
-# Reusable-N95-Project
+# Reusable-N95-Project (a UofT-CIGITI-Queen's collaborative)
 ## Urgent design, testing, distribution, guideline in light of disrupted N95 supply to COVID-19 era Canada
 Back-up stop-gap plan for N95 depletion in Ontario, Canada
 
@@ -22,17 +21,21 @@ Reuse of N95 preferred at this stage by decontamination (VPHP, UVGI, Heat)
 - https://3dprint.nih.gov/collections/covid-19-response
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
 
+### "Kingston" Mask
+- http://ppekingston.squarespace.com/
+- Modification of Montana with different sizing, filter size, geometry
+
 ## Prototype
 - I3D XS, S, M prototypes built
 - Montana S size (only)
-- NIH S, M. XS needs redesigning
+- NIH S, M. (XS needs redesigning)
+- Kingston XS, S, M, L
 - Seal and fit problem
 - Iteration required
 
 ## Local Testing
 ### NIOSH test
-- James Scott and Jeff Brook from UofT OS & EH
-- 13 April 2020
+- James Scott and Jeff Brook from UofT OS & EH 13 April 2020
 
 ### Bitrex Testing
 - Functional Test as form any in-person testing using "spray under the hood"
@@ -52,33 +55,34 @@ http://www.cambridgematerials.com (raw materials)
 ## Design, Production, Testing at Ontario Level
 ### UofT
 - William Ng (Lead, Anesthesia)
-- Andrew Syrett (Coordinator, Publications, Anesthesia)
-- Carla Luzzi (Project Manager, Grants, Anesthesia)
-- Matt Ratto (TEDA Director) 
-- Eric Greenwood (SickKids Physician Advisor, Director of Equipment) 
-- James Scott (OS & EH) 
-- Azad Mashari (Director UHN APIL, Anesthesia)
-### UHN APIL
-Joshua Hiansen (Design, Print Lead)
-Vahid Anwari (Production, Biomedical Engineer)
+- Andrew Syrett (Co-Lead, Publications, Anesthesia https://tiny.cc/8nbwmz)
+- Carla Luzzi (Project Manager, Grants, Anesthesia, www.linkedin.com/in/carla-luzzi-7aa661181)
+- Matt Ratto (TEDA Director, ischool.utoronto.ca/profile/matt-ratto/) 
+- Eric Greenwood (SickKids Advisor, Director of Equipment, www.anesthesia.utoronto.ca/content/eric-greenwood) 
+- James Scott (OS & EH, www.dlsph.utoronto.ca/faculty-profile/scott-james-a/) 
+- Azad Mashari (Director UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
+### UHN APIL - apil.ca
+Joshua Hiansen (Design, Print Lead, /www.linkedin.com/in/joshuaqh/)
+Vahid Anwari (Production, Biomedical Engineer, www.linkedin.com/in/vahid-anwari-3763973)
 ### Sick Kids Research
 Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 ### CIGITI
 Thomas Looi (Director), Brandon Peel (Design)
-
-### Industry and NHH
-Brian Read (ex-plastcs; co-ord); 
-### NHH (Northumberland Hills Hospital)
-Mukesh Bhargava (Director)
-
-### EM UHN
-Sameer Masoud/Masood (Emergency Physician, UHN and Humber). 
-- Aim to share filtering knowledge, testing results, combine human factors simulation.
-
 ### Queen's Parallel Initiative
 - Cesia Quintero & Megan Singh & Matt Snow
 - James Garel Jones (VertiGrow, co-designer)
 - Taylor Sweet (YGK 3D, co-designer)
+### GLIA NFP partner - glia.org
+- Carrie Wakem (Executive Director)
+
+###Affiliates
+#### Industry and NHH
+Brian Read (ex-plastcs; co-ord) 
+#### NHH (Northumberland Hills Hospital)
+Mukesh Bhargava (Director)
+#### EM UHN
+Sameer Masoud/Masood (Emergency Physician, UHN and Humber). 
+- Aim to share filtering knowledge, testing results, combine human factors simulation.
 
 ## Regulation and Testing
 ### ISO and CSA
