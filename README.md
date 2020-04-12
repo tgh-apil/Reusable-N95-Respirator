@@ -56,7 +56,7 @@ http://www.cambridgematerials.com (raw materials)
 ## Design, Production, Testing at Ontario Level
 ### UofT
 - William Ng (Lead, Anesthesia)
-- Andrew Syrett (Co-Lead, Publications, Anesthesia https://tiny.cc/8nbwmz)
+- Andrew Syrett (Co-Lead, Publications, Anesthesia)
 - Carla Luzzi (Project Manager, Grants, Anesthesia, www.linkedin.com/in/carla-luzzi-7aa661181)
 - Matt Ratto (TEDA Director, https://ischool.utoronto.ca/profile/matt-ratto/) 
 - Eric Greenwood (SickKids Advisor, Director of Equipment, www.anesthesia.utoronto.ca/content/eric-greenwood) 
