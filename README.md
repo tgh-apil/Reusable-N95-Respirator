@@ -30,7 +30,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - I3D XS, S, M prototypes built
 - Montana S size (only)
 - NIH S, M. (XS needs redesigning)
-- Kingston XS, S, M, L
+- Kingston XS, S, M, L, XL
 - Seal and fit problem
 - Iteration required
 
@@ -63,12 +63,12 @@ http://www.cambridgematerials.com (raw materials)
 - James Scott (OS & EH, www.dlsph.utoronto.ca/faculty-profile/scott-james-a/) 
 - Azad Mashari (Director UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
 ### APIL|UHN - https://apil.ca
-Joshua Hiansen (Design, Print Lead, /www.linkedin.com/in/joshuaqh/)
-Vahid Anwari (Production, Biomedical Engineer, www.linkedin.com/in/vahid-anwari-3763973)
+- Joshua Hiansen (Design, Print Lead, /www.linkedin.com/in/joshuaqh/)
+- Vahid Anwari (Production, Biomedical Engineer, www.linkedin.com/in/vahid-anwari-3763973)
 ### Sick Kids Research
-Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
+- Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 ### CIGITI - https://www.cigiti.ca
-Thomas Looi (Director), Brandon Peel (Design)
+- Thomas Looi (Director), Brandon Peel (Design)
 ### Queen's Parallel Initiative - http://ppekingston.squarespace.com/
 - Cesia Quintero & Megan Singh & Matt Snow
 - James Garel Jones (VertiGrow, co-designer)
@@ -76,13 +76,13 @@ Thomas Looi (Director), Brandon Peel (Design)
 ### GLIA NFP partner - https://glia.org
 - Carrie Wakem (Executive Director)
 
-###Affiliates
+### Affiliates
 #### Industry and NHH
-Brian Read (ex-plastcs; co-ord) 
+- Brian Read (ex-plastcs; co-ord) 
 #### NHH (Northumberland Hills Hospital)
-Mukesh Bhargava (Director)
+- Mukesh Bhargava (Director)
 #### EM|UHN
-Sameer Masoud/Masood (Emergency Physician, UHN and Humber). 
+- Sameer Masoud/Masood (Emergency Physician, UHN and Humber). 
 - Aim to share filtering knowledge, testing results, combine human factors simulation.
 
 ## Regulation and Testing status
