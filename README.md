@@ -62,7 +62,7 @@ http://www.cambridgematerials.com (raw materials)
 - Eric Greenwood (SickKids Advisor, Director of Equipment, www.anesthesia.utoronto.ca/content/eric-greenwood) 
 - James Scott (OS & EH, www.dlsph.utoronto.ca/faculty-profile/scott-james-a/) 
 - Azad Mashari (Director UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
-### APIL|UHN - apil.ca
+### APIL|UHN - https://apil.ca
 Joshua Hiansen (Design, Print Lead, /www.linkedin.com/in/joshuaqh/)
 Vahid Anwari (Production, Biomedical Engineer, www.linkedin.com/in/vahid-anwari-3763973)
 ### Sick Kids Research
@@ -73,7 +73,7 @@ Thomas Looi (Director), Brandon Peel (Design)
 - Cesia Quintero & Megan Singh & Matt Snow
 - James Garel Jones (VertiGrow, co-designer)
 - Taylor Sweet (YGK 3D, co-designer)
-### GLIA NFP partner - glia.org
+### GLIA NFP partner - https://glia.org
 - Carrie Wakem (Executive Director)
 
 ###Affiliates
