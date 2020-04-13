@@ -12,15 +12,22 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - repo: https://www.dropbox.com/sh/exq93iisr1vuk3s/AACLyBetassTvupc8qk6WR29a?dl=0
 
 ## Options
-### Montana 3D
-- website: Instagram #MakeTheMask, https://www.makethemasks.com
-
-### Intermountain 3D (I3D) modification of Montana
-- website: https://www.intermountain3d.com/covid-respirators.html
-
 ### NIH released open sources
 - https://3dprint.nih.gov/collections/covid-19-response
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
+
+### Montana 3D by Billings, Montana
+- website: Instagram #MakeTheMask, https://www.makethemasks.com
+
+### Simple Silicone Respirator by Christian Petropolis at HSC Manitoba
+- silicone material dragon skin sx pro to 10, durometer 2A - 10
+- attaches to commerical filters 15mm to 22mm
+- M size fits small to large
+- https://cad.onshape.com/documents/912751c654360860ae260334/w/75644efc74b9616c5ac20c2f/e/7fecc2776bb556dd9c7c6a62
+- https://github.com/cpetropolis/Simple-Silicone-Respirator
+
+### Intermountain 3D (I3D) modification of Montana
+- website: https://www.intermountain3d.com/covid-respirators.html
 
 ### "Kingston" Mask - Queen's Initiative
 - http://ppekingston.squarespace.com/
