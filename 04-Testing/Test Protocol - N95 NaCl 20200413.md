@@ -19,8 +19,8 @@ range of 10-400 nm. General purpose health care masks need to achieve 95% filtra
 1. NIH "SFM" Small Size Rev-A
 - Silicone rim (EcoFlex 30)
 2. NIH "SFM" Medium Size Rev-A
-- Silicone inlay (Dragon Skin 10), or 
-- Slicone rim (EcoFlex 30 Dragon Skin 10 blend)
+- Slicone rim (EcoFlex 30 Dragon Skin 10 blend), or
+- Silicone inlay (Dragon Skin 10)
 3. Montana Small Size
 - Silicone rim (EcoFlex 30)
 4. Montana Medium Size
