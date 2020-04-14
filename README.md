@@ -66,13 +66,13 @@ http://www.cambridgematerials.com (raw materials)
 
 ## Design, Production, Testing at Ontario Level
 ### UofT
-- William Ng (Lead, Anesthesia)
+- William Ng (Lead, Anesthesia, PI at APIL)
 - Andrew Syrett (Co-Lead, Publications, Anesthesia)
 - Carla Luzzi (Project Manager, Grants, Anesthesia, www.linkedin.com/in/carla-luzzi-7aa661181)
 - Matt Ratto (TEDA Director, https://ischool.utoronto.ca/profile/matt-ratto/) 
 - Eric Greenwood (SickKids Advisor, Director of Equipment, www.anesthesia.utoronto.ca/content/eric-greenwood) 
 - James Scott (OS & EH, www.dlsph.utoronto.ca/faculty-profile/scott-james-a/) 
-- Azad Mashari (Director UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
+- Azad Mashari (Director of UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
 ### APIL|UHN - https://apil.ca
 - Joshua Hiansen (Design, Print Lead, /www.linkedin.com/in/joshuaqh/)
 - Vahid Anwari (Production, Biomedical Engineer, www.linkedin.com/in/vahid-anwari-3763973)
