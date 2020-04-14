@@ -2,7 +2,7 @@ Orig: William Ng et al. https://www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
 Last: 13 April 2020
 
-# Reusable-N95-Project (an APIL-CIGITI-Queen's-UofT collaborative)
+# Reusable-N95-Project (APIL-CIGITI-Queen's-UofT collaborative)
 ## Urgent design, testing, recommendation, dissemination of guidelines in light of disrupted N95 supply to COVID-19 era Canada
 Investigate back-up stop-gap plan for N95 depletion in Ontario, Canada
 
@@ -10,6 +10,9 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ## Repo of CAD (and other big files)
 - repo: https://www.dropbox.com/sh/exq93iisr1vuk3s/AACLyBetassTvupc8qk6WR29a?dl=0
+
+## Timeline for project
+00-Timeline/N95 Project Management 20200413.xlsx
 
 ## Options
 ### NIH released open sources
@@ -95,6 +98,8 @@ http://www.cambridgematerials.com (raw materials)
 #### EM|UHN
 - Sameer Masoud/Masood (Emergency Physician, UHN and Humber). 
 - Aim to share filtering knowledge, testing results, combine human factors simulation.
+#### UHN Vascular Surgery "Development of a non-disposable N95" - AMO grant
+
 
 ## Regulation and Testing status
 ### OHS Bitrex - pending
@@ -110,13 +115,10 @@ http://www.cambridgematerials.com (raw materials)
 
 ## Funding
 ### Ontario Together initiative to help fight COVID-19, 
-- submitted: 12:30pm, 9 April 2020
+- submitted: 12:30pm, 9 April 2020 by Will
 - margaret.kinyanjui@uhnresearch.ca with internal template and actual application
-- reference: 
-### UHN AMO Due 4pm, 9 April 2020
-- Umbrella AMO submitted for TGH APIL PPE and Ventilation Projects.
-- Not preferred until workable solution is made (i.e. ready for scaled up production)
-- The proposal and budget submitted as PDF and emailed  to Richard Getty (richard.getty@uhn.ca) by 4pm, 9 April, 2020.
+### FastFund
+- submitted: 12 April 2020 by Carla
 ### Other Sources
 - see contacts list
 ### Community
