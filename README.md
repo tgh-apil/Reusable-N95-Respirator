@@ -71,11 +71,11 @@ http://www.cambridgematerials.com (raw materials)
 ## Design, Production, Testing at Ontario Level
 ### UofT
 - William Ng (Lead, Anesthesia, PI at APIL)
-- Andrew Syrett (Co-Lead, Publications, Anesthesia)
+- Andrew Syrett (Testing, Publications, Anesthesia)
 - Carla Luzzi (Project Manager, Grants, Anesthesia, www.linkedin.com/in/carla-luzzi-7aa661181)
 - Matt Ratto (TEDA Director, https://ischool.utoronto.ca/profile/matt-ratto/) 
 - Eric Greenwood (SickKids Advisor, Director of Equipment, www.anesthesia.utoronto.ca/content/eric-greenwood) 
-- James Scott (OS & EH, www.dlsph.utoronto.ca/faculty-profile/scott-james-a/) 
+- James Scott (OS & EH, www.dlsph.utoronto.ca/faculty-profile/scott-james-a/)
 - Azad Mashari (Director of UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
 ### APIL|UHN - https://apil.ca
 - Joshua Hiansen (Design, Print Lead, /www.linkedin.com/in/joshuaqh/)
@@ -83,9 +83,10 @@ http://www.cambridgematerials.com (raw materials)
 ### Sick Kids Research
 - Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 ### CIGITI - https://www.cigiti.ca
-- Thomas Looi (Director), Brandon Peel (Design)
+- Thomas Looi (Director)
+- Brandon Peel (Design)
 ### Queen's Parallel Initiative - http://ppekingston.squarespace.com/
-- Cesia Quintero & Megan Singh & Matt Snow
+- Cesia Quintero & Megan Singh & Matt Snow (Founders)
 - James Garel Jones (VertiGrow, co-designer)
 - Taylor Sweet (YGK 3D, co-designer)
 ### GLIA NFP partner - https://glia.org
@@ -93,7 +94,7 @@ http://www.cambridgematerials.com (raw materials)
 
 ### Affiliates
 #### Industry and NHH
-- Brian Read (ex-plastcs; co-ord) 
+- Brian Read (ex-plastcs; industry co-ordinator) 
 #### NHH (Northumberland Hills Hospital)
 - Mukesh Bhargava (Director)
 #### EM|UHN
