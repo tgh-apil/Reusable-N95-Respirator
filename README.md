@@ -45,7 +45,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - Kingston XS, S, M, L, XL
 - Seal and fit problem
 - Iteration required
-- Adapter to ROXON filter functional as stop-gap option
+- ~Adapter to ROXON filter functional as stop-gap option~ (not considered given poor NIOSH testing)
 
 ## Local Testing
 ### Particulate and NIOSH test
