@@ -1,10 +1,10 @@
 Orig: William Ng et al. https://www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
-Last: 12 April 2020
+Last: 13 April 2020
 
 # Reusable-N95-Project (an APIL-CIGITI-Queen's-UofT collaborative)
-## Urgent design, testing, distribution, guideline in light of disrupted N95 supply to COVID-19 era Canada
-Back-up stop-gap plan for N95 depletion in Ontario, Canada
+## Urgent design, testing, recommendation, dissemination of guidelines in light of disrupted N95 supply to COVID-19 era Canada
+Investigate back-up stop-gap plan for N95 depletion in Ontario, Canada
 
 Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
@@ -45,10 +45,11 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - Adapter to ROXON filter functional as stop-gap option
 
 ## Local Testing
-### NIOSH test
-- James Scott and Jeff Brook from UofT OS & EH 13 April 2020
+### Particulate and NIOSH test
+- James Scott and Jeff Brook from UofT OS & EH 13 April 2020 - proof of concept testing
+- excluded single FLAT N95 filter option, either double cartridge system, or pleated bacterial/viral filter required.
 
-### Bitrex Testing
+### OHSA and Bitrex Testing
 - Functional Test as form any in-person testing using "spray under the hood"
 - UHN OHS pending
 - Might need Non-UHN partners SickKids, Queen's University (KHSC?), other
@@ -122,7 +123,7 @@ http://www.cambridgematerials.com (raw materials)
 - Li Zhang (GLIA volunteer) to raise awareness and medium-term community funding
 
 ## Long Term
-### Patent final product
-### Non-Pandemic Use
-### Model refinement
+### Patent final product/s report
+### Non-Pandemic Use recommendations
+### Model refinement dependent on on-going funding
 ### Publish then archived for future pandemic back-up response use
