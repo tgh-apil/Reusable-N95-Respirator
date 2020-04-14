@@ -98,8 +98,8 @@ http://www.cambridgematerials.com (raw materials)
 #### EM|UHN
 - Sameer Masoud/Masood (Emergency Physician, UHN and Humber). 
 - Aim to share filtering knowledge, testing results, combine human factors simulation.
-#### UHN Vascular Surgery "Development of a non-disposable N95" - AMO grant
-
+#### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
+- Dr. Roche-Nagle, Professor of Vascular Surgery https://surgery.utoronto.ca/content/graham-roche-nagle
 
 ## Regulation and Testing status
 ### OHS Bitrex - pending
