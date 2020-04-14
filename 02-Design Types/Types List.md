@@ -4,31 +4,48 @@ Last: 11 April 2020
 
 Still nothing FDA of HC approved
 
+# Short-list criteria
+1) Open Source, licence to use and refine
+2) 3D printable with available printers (to us)
+3) Clinically tested 
+4) Theoretically decontaminable easily
+5) Theoretically suitable for long-hours wear
+
 # Short-List
-NIH "SFM" Stop-Gap Face Mask; currently only one on NIH exchange that is clinically reviewed.
-https://3dprint.nih.gov/discover/3dpx-013429
+### NIH released open sources
+- https://3dprint.nih.gov/collections/covid-19-response; currently only one on NIH exchange that is clinically reviewed.
+- https://3dprint.nih.gov/discover/3dpx-013429
+- many variations to choose from, apart form the above, which have gained traction and use in several hospitals
 
-Billings, Montana
-https://www.makethemasks.com
-tested and used Billings Clinic, MT; ? in Utah; Kaiser San Diego;
+### Simple Silicone Respirator by Christian Petropolis at HSC Manitoba
+- silicone material dragon skin sx pro to 10, durometer 2A - 10
+- attaches to commerical filters 15mm to 22mm
+- M size fits small to large
+- working copy https://cad.onshape.com/documents/a5f5de31c4732fb3c077f7d9/w/7b1df48439473aaa39a18cc3/e/e7b3ab7f8894425fe0ec1df3
+- original cad https://cad.onshape.com/documents/912751c654360860ae260334/w/75644efc74b9616c5ac20c2f/e/7fecc2776bb556dd9c7c6a62
+- https://github.com/cpetropolis/Simple-Silicone-Respirator
 
-Intermountain3D - modified Montana with flat rim
+### "Kingston" Mask - Queen's Initiative
+- http://ppekingston.squarespace.com/
+- Modification of Montana with different sizing, filter size, geometry
+- fit-testing done by OSH at KGH
+
+### Billings, Montana
+- https://www.makethemasks.com
+- tested and used Billings Clinic, MT; ? in Utah; Kaiser San Diego;
+
+### Intermountain3D - modified Montana with flat rim
 https://www.intermountain3d.com/covid-respirators.html
 ask about files: SLS printing and assembly, lynn@intermountain3d.com
 
 _____
 
-# Short-list criteria
-1) Open Source
-2) 3D printable with availble printers (to us)
-3) Clinically tested 
-4) Theoretically decontaminable easily
-5) Theoretically suitable for long-hours waer
-
 ## Other-list
 Concordia (Modified Montana) respirator mask
 https://blog.cuw.edu/access-concordias-respirator-mask-3d-print-file/
 has double inner rim, suitable for silicone/rubber gasket seal
+
+
 
 Basic Respirator Tyvek flat filter
 https://basicrespirator.com
