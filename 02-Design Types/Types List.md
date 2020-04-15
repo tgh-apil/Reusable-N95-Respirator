@@ -14,7 +14,7 @@ Still nothing FDA of HC approved
 # Short-List
 ### NIH released open sources
 - https://3dprint.nih.gov/collections/covid-19-response; currently only one on NIH exchange that is clinically reviewed.
-- https://3dprint.nih.gov/discover/3dpx-013429
+- https://3dprint.nih.gov/discover/3dpx-013429 NIH "SFM" Mask is clinically tested
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
 - Now modified by APIL to unibody Silicone Mould, awaiting testing.
 
