@@ -134,6 +134,7 @@ http://www.cambridgematerials.com (raw materials)
 - submitted: 12 April 2020 by Carla
 ### Other Sources
 - see contacts list
+- UHN Peter Munk Innovation Fund: due next week (?)
 ### Community
 - Li Zhang (GLIA volunteer) to raise awareness and medium-term community funding
 
