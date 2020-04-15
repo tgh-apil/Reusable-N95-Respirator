@@ -19,6 +19,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 ### NIH released open sources
 - https://3dprint.nih.gov/collections/covid-19-response
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
+- UHN APIL modification to Unibody Silicone with adapter for 15mm to 22mm adapter.
 
 ### Simple Silicone Respirator by Christian Petropolis at HSC Manitoba
 - silicone material dragon skin sx pro to 10, durometer 2A - 10
