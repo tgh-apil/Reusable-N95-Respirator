@@ -20,7 +20,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 *Medium term challenge*:
 - HME filter sourcing
-- Estimation of Unit *Cost* and *Time* to producing first 1000 units.
+- Estimation of unit *Cost* and *Time* to producing first 1000 units.
 
 ## Options
 ### NIH released open sources
