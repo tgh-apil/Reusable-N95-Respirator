@@ -2,7 +2,7 @@ Orig: William Ng et al. https://www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
 Last: 14 April 2020
 
-# Reusable-N95-Project (APIL-CIGITI-Queen's-UofT-GLIA collab)
+# Reusable-N95-Project (APIL-CIGITI-GLIA-Queen's-UofT collab)
 ## Urgent design, testing, recommendation, dissemination of guidelines in light of disrupted N95 supply to COVID-19 era Canada
 Investigate back-up stop-gap plan for N95 depletion in Ontario, Canada
 
