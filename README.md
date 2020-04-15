@@ -56,6 +56,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - Onepiece Silicone Iteration required 16 April 2020
 - Filtration area needs to be maximally increased for WOB and any remote chance of getting NIOSH testing
 - ~Adapter to ROXON filter functional as stop-gap option~ (not considered given poor NIOSH testing)
+- ~single filter cartridge system with N95 medium~ (not considered given poor breathability with good mask seal)
 
 ## Local Testing
 ### Particulate and NIOSH test
