@@ -30,8 +30,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ### Simple Silicone Respirator by Christian Petropolis at HSC Manitoba
 - silicone material dragon skin sx pro to 10, durometer 2A - 10
-- attaches to commerical filters 15mm to 22mm
-- M size fits small to large
+- attaches to commerical filters 15mm to 22mm; M size fits small to large; planning for S and L sizes.
 - working copy https://cad.onshape.com/documents/a5f5de31c4732fb3c077f7d9/w/7b1df48439473aaa39a18cc3/e/e7b3ab7f8894425fe0ec1df3
 - original cad https://cad.onshape.com/documents/912751c654360860ae260334/w/75644efc74b9616c5ac20c2f/e/7fecc2776bb556dd9c7c6a62
 - https://github.com/cpetropolis/Simple-Silicone-Respirator
