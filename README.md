@@ -69,9 +69,9 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - Might need Non-UHN partners SickKids, Queen's University (KHSC?), other
 
 ### Other centres through HC
-https://www.intertek.com/canada/ (https://www.intertek.com/scientific-regulatory-consultancy/) </b>
-https://gcttg.com/en/ (textiles transportation geosynthetics) </b>
-http://www.cambridgematerials.com (raw materials) </b>
+- https://www.intertek.com/canada/ (https://www.intertek.com/scientific-regulatory-consultancy/)
+- https://gcttg.com/en/ (textiles transportation geosynthetics)
+- http://www.cambridgematerials.com (raw materials)
 
 ### Decontamination
 - Designs ideally be washable in chlorox 1:10 (as for faceshields) and dried
