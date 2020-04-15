@@ -41,11 +41,12 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ## Prototype
 - I3D XS, S, M prototypes built
-- Montana S size (only)
+- Montana S, M, L size (modified)
 - NIH S, M. (XS needs redesigning)
 - Kingston XS, S, M, L, XL
 - Seal and fit problem
-- Iteration required
+- Onepiece Silicone Iteration required 16 April 2020
+- Filtration area needs to be maximally increased for WOB and any remote chance of getting NIOSH testing
 - ~Adapter to ROXON filter functional as stop-gap option~ (not considered given poor NIOSH testing)
 
 ## Local Testing
