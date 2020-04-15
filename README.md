@@ -85,6 +85,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - Matt Ratto (TEDA Director, https://ischool.utoronto.ca/profile/matt-ratto/) 
 - Eric Greenwood (SickKids Advisor, Director of Equipment, www.anesthesia.utoronto.ca/content/eric-greenwood) 
 - James Scott (OS & EH, www.dlsph.utoronto.ca/faculty-profile/scott-james-a/)
+- Alon Vaisman (Physician UHN IPAC, UHN COVID-19 PPE team, UofT Infectious Diseases) 
 - Azad Mashari (Director of UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
 ### APIL|UHN - https://apil.ca
 - Joshua Hiansen (Design, Print Lead, /www.linkedin.com/in/joshuaqh/)
@@ -100,8 +101,9 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - Taylor Sweet (YGK 3D, co-designer)
 ### GLIA NFP partner - https://glia.org
 - Carrie Wakem (Executive Director)
-#### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
+### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
 - Dr. Roche-Nagle, Professor of Vascular Surgery https://surgery.utoronto.ca/content/graham-roche-nagle
+
 
 ### Affiliates
 #### Industry and NHH
