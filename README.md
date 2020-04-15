@@ -55,7 +55,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ### OHSA and Bitrex Testing
 - Functional Test as form any in-person testing using "spray under the hood"
-- UHN OHS pending
+- UHN OHS involved, Craig Parsons and Sharon Martin (TBC by Frank Turner). Dr Hota's input solicited.
 - Might need Non-UHN partners SickKids, Queen's University (KHSC?), other
 
 ### Other centres through HC
@@ -95,6 +95,8 @@ http://www.cambridgematerials.com (raw materials)
 ### Affiliates
 #### Industry and NHH
 - Brian Read (ex-plastcs; industry co-ordinator) 
+#### Woodbridge indsutry, CEO Bob Magee
+- VP (NVH) Martin Mazza - Technical POC regarding filter
 #### NHH (Northumberland Hills Hospital)
 - Mukesh Bhargava (Director)
 #### EM|UHN
