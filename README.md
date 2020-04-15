@@ -38,7 +38,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ### "Kingston" Mask - Queen's Initiative
 - http://ppekingston.squarespace.com/
-- Modification of Montana with different sizing, filter size, geometry
+- Modification of Montana with different sizing, filter size, geometry, *nose-pinching mechanism*
 - fit-testing done by OSH at KGH
 
 ### Montana 3D by Billings, Montana
