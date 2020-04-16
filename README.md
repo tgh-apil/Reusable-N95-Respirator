@@ -1,6 +1,6 @@
 Orig: William Ng et al. https://www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
-Last: 14 April 2020
+Last: 15 April 2020
 
 # Reusable-N95-Project (APIL-CIGITI-GLIA-Queen's-UofT collab)
 ## Urgent design, testing, recommendation, upscale in industry, dissemination of guidelines in light of disrupted N95 supply to COVID-19 era Canada
@@ -51,9 +51,11 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - Montana S, M, L size (modified)
 - NIH S, M. (XS needs redesigning)
 - Kingston XS, S, M, L, XL
+- Manitoba SSR M (S to come)
 - Seal and fit problem
 - Onepiece Silicone Iteration required 16 April 2020
 - Filtration area needs to be maximally increased for WOB and any remote chance of getting NIOSH testing
+- Considering 2 filter cartridge system with tight seal (Brandon)
 - ~Adapter to ROXON filter functional as stop-gap option~ (no longer pursued given poor NIOSH testing)
 - ~single filter cartridge system with N95 medium~ (no longer pursued given poor breathability with good mask seal)
 
@@ -63,9 +65,9 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - excluded single FLAT N95 filter option, either double cartridge system, or pleated bacterial/viral filter required.
 
 ### OHSA and Bitrex Testing
-- Functional Test as form any in-person testing using "spray under the hood"
+- Pooling Non-UHN partners SickKids, Queen's University (KHSC), other OHS to perform CSA standard mask-fit test
+- Functional Test as form any in-person testing using "spray under the hood" Bitrex
 - UHN OHS involved, Craig Parsons and Sharon Martin (TBC by Frank Turner). Dr Hota's input solicited.
-- Might need Non-UHN partners SickKids, Queen's University (KHSC?), other
 
 ### Other centres through HC
 - https://www.intertek.com/canada/ (https://www.intertek.com/scientific-regulatory-consultancy/)
@@ -103,7 +105,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - Carrie Wakem (Executive Director)
 ### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
 - Dr. Roche-Nagle, Professor of Vascular Surgery https://surgery.utoronto.ca/content/graham-roche-nagle
-
+- Pending joint grant proposal for Peter Munk Innovation Fund (Aim for April 17 2020)
 
 ### Affiliates
 #### Industry and NHH
@@ -115,6 +117,8 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 #### EM|UHN
 - Sameer Masoud/Masood (Emergency Physician, UHN and Humber). 
 - Aim to share filtering knowledge, testing results, combine human factors simulation.
+#### Dr. Nanthakumar from TGH Cardiology 
+- offering 3DP machines' spare capacity and engineering help
 
 ## Regulation and Testing status
 ### OHS Bitrex - pending
@@ -136,7 +140,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - submitted: 12 April 2020 by Carla
 ### Other Sources
 - see contacts list
-- UHN Peter Munk Innovation Fund: due next week (?)
+- UHN Peter Munk Innovation Fund: due (?)
 ### Community
 - Li Zhang (GLIA volunteer) to raise awareness and medium-term community funding
 
