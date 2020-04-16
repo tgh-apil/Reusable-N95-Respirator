@@ -15,8 +15,9 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - 00-Timeline/N95 Project Management 20200413.xlsx (https://github.com/bachnwill/Reusable-N95-Project/blob/master/00-Timeline/N95%20Project%20Management%2020200413.xlsx)
 
 *Current focus*:
-- form-fit test Manitoba Simple Silicone Respirator with HME bacterial/viral filters
-- form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters
+- form-fit test Manitoba Simple Silicone Respirator with HME bacterial/viral filters and focus on refining
+- ~form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters~ pause on this design
+- Fit-test Kingston Masks from Queen's
 
 *Medium term challenge*:
 - HME filter sourcing
