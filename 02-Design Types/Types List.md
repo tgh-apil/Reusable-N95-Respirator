@@ -1,6 +1,6 @@
 Orig: Will Ng
 
-Last: 11 April 2020
+Last: 14 April 2020
 
 Still nothing FDA of HC approved
 
@@ -14,8 +14,9 @@ Still nothing FDA of HC approved
 # Short-List
 ### NIH released open sources
 - https://3dprint.nih.gov/collections/covid-19-response; currently only one on NIH exchange that is clinically reviewed.
-- https://3dprint.nih.gov/discover/3dpx-013429
+- https://3dprint.nih.gov/discover/3dpx-013429 NIH "SFM" Mask is clinically tested
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
+- Now modified by APIL to unibody Silicone Mould, awaiting testing.
 
 ### Simple Silicone Respirator by Christian Petropolis at HSC Manitoba
 - silicone material dragon skin sx pro to 10, durometer 2A - 10
@@ -44,8 +45,6 @@ _____
 Concordia (Modified Montana) respirator mask
 https://blog.cuw.edu/access-concordias-respirator-mask-3d-print-file/
 has double inner rim, suitable for silicone/rubber gasket seal
-
-
 
 Basic Respirator Tyvek flat filter
 https://basicrespirator.com
