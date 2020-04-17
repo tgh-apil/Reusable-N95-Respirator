@@ -95,16 +95,14 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 ### APIL|UHN - https://apil.ca
 - Joshua Hiansen (Design, Print Lead, /www.linkedin.com/in/joshuaqh/)
 - Vahid Anwari (Production, Biomedical Engineer, www.linkedin.com/in/vahid-anwari-3763973)
-### Sick Kids Research
-- Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 ### CIGITI - https://www.cigiti.ca
 - Thomas Looi (Director)
 - Brandon Peel (Design)
-### NOSM's Parallel Initiative 
+### NOSM's Parallel Initiative (Division of Clinical Sciences)
 - Michael Poling (RT 3D print, face-shields)
-- Andre L (MRI Engineering) 
+- Andre L (MRI Engineering, Lakehead) 
 - Alannah MaClean (Student Lead)
-### Queen's Parallel Initiative - http://ppekingston.squarespace.com/
+### Queen's Parallel Initiative - http://ppekingston.squarespace.com/ (SoM)
 - Cesia Quintero & Megan Singh & Matt Snow (Founders)
 - James Garel Jones (VertiGrow, co-designer)
 - Taylor Sweet (YGK 3D, co-designer)
@@ -113,6 +111,8 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 ### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
 - Dr. Roche-Nagle, Professor of Vascular Surgery https://surgery.utoronto.ca/content/graham-roche-nagle
 - Pending joint grant proposal for Peter Munk Innovation Fund (Aim for April 17 2020)
+### Sick Kids Research
+- Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 
 ### Affiliates
 #### Industry and NHH
