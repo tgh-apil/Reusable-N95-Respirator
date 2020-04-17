@@ -2,13 +2,14 @@ Orig: William Ng et al. https://www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
 Last: 15 April 2020
 
-# Reusable-N95-Project (APIL-CIGITI-GLIA-Queen's-UofT collab)
+# Reusable-N95-Project (APIL-CIGITI-GLIA-NOSM-Queen's-UofT collab)
 ## Urgent design, testing, recommendation, upscale in industry, dissemination of guidelines in light of disrupted N95 supply to COVID-19 era Canada
 Investigate back-up stop-gap plan for N95 depletion in Ontario, Canada
 
 Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ## Repo of CAD (and other big files)
+- github ~/Types, or
 - repo: https://www.dropbox.com/sh/exq93iisr1vuk3s/AACLyBetassTvupc8qk6WR29a?dl=0
 
 ## Timeline for project
@@ -64,6 +65,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 ### Particulate and NIOSH test
 - James Scott and Jeff Brook from UofT OS & EH 13 April 2020 - proof of concept testing
 - excluded single FLAT N95 filter option, either double cartridge system, or pleated bacterial/viral filter required.
+- Consider pursuing N90 grade with Merv 15 filter (suggested by Queen's https://www.mcmaster.com/22905k28)
 
 ### OHSA and Bitrex Testing
 - Pooling Non-UHN partners SickKids, Queen's University (KHSC), other OHS to perform CSA standard mask-fit test
@@ -98,6 +100,10 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 ### CIGITI - https://www.cigiti.ca
 - Thomas Looi (Director)
 - Brandon Peel (Design)
+### NOSM's Parallel Initiative 
+- Michael Poling (RT 3D print, face-shields)
+- Andre L (MRI Engineering) 
+- Alannah MaClean (Student Lead)
 ### Queen's Parallel Initiative - http://ppekingston.squarespace.com/
 - Cesia Quintero & Megan Singh & Matt Snow (Founders)
 - James Garel Jones (VertiGrow, co-designer)
