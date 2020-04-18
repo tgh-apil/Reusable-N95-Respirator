@@ -88,13 +88,13 @@ Last: 17 April 2020
 ## Design, Production, Testing at Ontario Level
 ### UofT
 - William Ng (Lead, Anesthesia, PI @ UHN APIL)
+- Azad Mashari (Director of UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
 - Andrew Syrett (Testing, Publications, Anesthesia)
 - Matt Ratto (TEDA Director, https://ischool.utoronto.ca/profile/matt-ratto/) 
 - Eric Greenwood (SickKids Advisor, Director of Equipment, www.anesthesia.utoronto.ca/content/eric-greenwood)
 - Devin Singh (Testing, Design input, Engineering PhD, Anesthesia, )
 - James Scott (OS & EH, www.dlsph.utoronto.ca/faculty-profile/scott-james-a/)
 - Alon Vaisman (UHN IPAC physician, UHN COVID-19 PPE team, UofT Infectious Diseases) 
-- Azad Mashari (Director of UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
 - Carla Luzzi (Anesthesia, www.linkedin.com/in/carla-luzzi-7aa661181)
 ### APIL|UHN - https://apil.ca
 - Joshua Hiansen (Design Engineering, Print Lead, www.linkedin.com/in/joshuaqh/)
