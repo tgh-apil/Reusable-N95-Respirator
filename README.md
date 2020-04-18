@@ -118,7 +118,10 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 ### Sick Kids Research
 - Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 
-### Affiliates
+### Affiliates and Contacts
+#### Manitoba Health Sciences Centre, 
+- Christian Petropolis (3DP Mask Lead, Plastics Surgery)
+- We agree to be their Ontario Partner
 #### Industry and NHH
 - Brian Read (ex-plastcs; industry co-ordinator) 
 #### Woodbridge indsutry, CEO Bob Magee
