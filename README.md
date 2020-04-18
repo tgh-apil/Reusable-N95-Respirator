@@ -150,7 +150,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - submitted: 12 April 2020 by Carla
 ### Other Sources
 - see contacts list
-- UHN Peter Munk Innovation Fund: due (?)
+- UHN Peter Munk Innovation Fund: due 20 Apr 2020
 ### Community
 - Li Zhang (GLIA volunteer) to raise awareness and medium-term community funding
 
