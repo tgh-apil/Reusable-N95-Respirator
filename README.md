@@ -70,7 +70,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - excluded single FLAT N95 filter option, either double cartridge system, or pleated bacterial/viral filter required.
 - Consider pursuing N90 grade with Merv 15 filter (suggested by Queen's https://www.mcmaster.com/22905k28)
 
-### OHSA and Bitrex Testing
+### OSHA and Bitrex Testing
 - Pooling Non-UHN partners SickKids, Queen's University (KHSC), other OHS to perform CSA standard mask-fit test
 - Functional Test as form any in-person testing using "spray under the hood" Bitrex
 - UHN OHS involved, Craig Parsons and Sharon Martin (TBC by Frank Turner). Dr Hota's input solicited.
