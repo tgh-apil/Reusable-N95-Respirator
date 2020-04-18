@@ -144,7 +144,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ## Funding
 ### Ontario Together initiative to help fight COVID-19, 
-- submitted: 12:30pm, 9 April 2020 by Will
+- submitted: 12:30pm, 9 April 2020 by Will; responded to Ministry invitation, 18:15 17 April 2020.
 - margaret.kinyanjui@uhnresearch.ca with internal template and actual application
 ### FastFund
 - submitted: 12 April 2020 by Carla
