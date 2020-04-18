@@ -87,17 +87,20 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ## Design, Production, Testing at Ontario Level
 ### UofT
-- William Ng (Lead, Anesthesia, PI at APIL)
+- William Ng (Lead, Anesthesia, PI @ UHN APIL)
 - Andrew Syrett (Testing, Publications, Anesthesia)
-- Carla Luzzi (Project Manager, Grants, Anesthesia, www.linkedin.com/in/carla-luzzi-7aa661181)
 - Matt Ratto (TEDA Director, https://ischool.utoronto.ca/profile/matt-ratto/) 
-- Eric Greenwood (SickKids Advisor, Director of Equipment, www.anesthesia.utoronto.ca/content/eric-greenwood) 
+- Eric Greenwood (SickKids Advisor, Director of Equipment, www.anesthesia.utoronto.ca/content/eric-greenwood)
+- Devin Singh (Testing, Design input, Engineering PhD, Anesthesia, )
 - James Scott (OS & EH, www.dlsph.utoronto.ca/faculty-profile/scott-james-a/)
-- Alon Vaisman (Physician UHN IPAC, UHN COVID-19 PPE team, UofT Infectious Diseases) 
+- Alon Vaisman (UHN IPAC physician, UHN COVID-19 PPE team, UofT Infectious Diseases) 
 - Azad Mashari (Director of UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
+- Carla Luzzi (Anesthesia, www.linkedin.com/in/carla-luzzi-7aa661181)
 ### APIL|UHN - https://apil.ca
-- Joshua Hiansen (Design, Print Lead, /www.linkedin.com/in/joshuaqh/)
+- Joshua Hiansen (Design Engineering, Print Lead, www.linkedin.com/in/joshuaqh/)
 - Vahid Anwari (Production, Biomedical Engineer, www.linkedin.com/in/vahid-anwari-3763973)
+### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
+- Dr. Roche-Nagle, Professor of Vascular Surgery https://surgery.utoronto.ca/content/graham-roche-nagle
 ### CIGITI - https://www.cigiti.ca
 - Thomas Looi (Director)
 - Brandon Peel (Design)
@@ -111,9 +114,7 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - Taylor Sweet (YGK 3D, co-designer)
 ### GLIA NFP partner - https://glia.org
 - Carrie Wakem (Executive Director)
-### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
-- Dr. Roche-Nagle, Professor of Vascular Surgery https://surgery.utoronto.ca/content/graham-roche-nagle
-- Pending joint grant proposal for Peter Munk Innovation Fund (Aim for April 17 2020)
+- Seeking joint grant proposal for Peter Munk Innovation Fund (Aim for 19 April 2020)
 ### Sick Kids Research
 - Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 
