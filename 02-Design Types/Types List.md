@@ -52,8 +52,8 @@ _____
 - https://basicrespirator.com
 
 ## Design Partners
-Nadir Hassan, Nadir.Hassan002@gmail.com
-Jessica Schroeder, Jessica.Laura.Shcroeder@gmail.com
+- Nadir Hassan, Nadir.Hassan002@gmail.com
+- Jessica Schroeder, Jessica.Laura.Shcroeder@gmail.com
 _____
 
 ## Government statements
