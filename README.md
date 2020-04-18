@@ -20,6 +20,9 @@ Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 - ~form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters~ pause on this design
 - Fit-test Kingston Masks from Queen's
 
+*Weekly focus*:
+- Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW.
+
 *Medium term challenge*:
 - HME filter sourcing
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
