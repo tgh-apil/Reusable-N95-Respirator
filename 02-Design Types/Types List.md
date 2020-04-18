@@ -36,23 +36,24 @@ Still nothing FDA of HC approved
 - tested and used Billings Clinic, MT; ? in Utah; Kaiser San Diego;
 
 ### Intermountain3D - modified Montana with flat rim
-https://www.intermountain3d.com/covid-respirators.html
-ask about files: SLS printing and assembly, lynn@intermountain3d.com
+- https://www.intermountain3d.com/covid-respirators.html
+- ask about files: SLS printing and assembly, lynn@intermountain3d.com
 
 _____
+## Repository
+- https://copper3d.com/hackthepandemic/
 
 ## Other-list
-Concordia (Modified Montana) respirator mask
-https://blog.cuw.edu/access-concordias-respirator-mask-3d-print-file/
-has double inner rim, suitable for silicone/rubber gasket seal
+- Concordia (Modified Montana) respirator mask
+- https://blog.cuw.edu/access-concordias-respirator-mask-3d-print-file/
+- has double inner rim, suitable for silicone/rubber gasket seal
 
-Basic Respirator Tyvek flat filter
-https://basicrespirator.com
+- Basic Respirator Tyvek flat filter
+- https://basicrespirator.com
 
 ## Design Partners
-Nadir Hassan
-Nadir.Hassan002@gmail.com
-
+Nadir Hassan, Nadir.Hassan002@gmail.com
+Jessica Schroeder, Jessica.Laura.Shcroeder@gmail.com
 _____
 
 ## Government statements
