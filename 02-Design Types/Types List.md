@@ -40,7 +40,7 @@ Still nothing FDA of HC approved
 - ask about files: SLS printing and assembly, lynn@intermountain3d.com
 
 _____
-## Repository
+## Interesting downward facing filter with screw/lock mechanism.
 - https://copper3d.com/hackthepandemic/
 
 ## Other-list
