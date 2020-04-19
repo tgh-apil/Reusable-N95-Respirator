@@ -60,7 +60,7 @@ Last: 17 April 2020
 - Seal and fit problem
 - Onepiece Silicone Iteration required 16 April 2020
 - Filtration area needs to be maximally increased for WOB and any remote chance of getting NIOSH testing
-- Considering 2 filter cartridge system with tight seal (Brandon)
+- Considering 2 filter cartridge system with tight seal (Brandon/Jay Pooley)
 - ~Adapter to ROXON filter functional as stop-gap option~ (no longer pursued given poor NIOSH testing)
 - ~single filter cartridge system with N95 medium~ (no longer pursued given poor breathability with good mask seal)
 
@@ -104,6 +104,10 @@ Last: 17 April 2020
 ### CIGITI - https://www.cigiti.ca
 - Thomas Looi (Director)
 - Brandon Peel (Design)
+### UofT Mech Engineering
+- Arash Nourimand, Natasha Valenton (Fusion)
+### UofT MD Program | Hamilton SoM "3D-PPE-GTHA" (Student Body, Community Presence, Logistics)
+- Sinthu, Jessica Trac, R&D Team, Yussef et al. (Contacts)
 ### NOSM's Parallel Initiative (Division of Clinical Sciences)
 - Michael Poling (RT 3D print, face-shields)
 - Andre L (MRI Engineering, Lakehead) 
