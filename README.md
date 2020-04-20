@@ -109,7 +109,7 @@ Last: 17 April 2020
 ### UofT Mech Engineering
 - Arash Nourimand, Natasha Valenton (Fusion)
 ### UofT MD Program | Hamilton SoM "3D-PPE-GTHA" (Student Body, Community Presence, Logistics)
-- Sinthu Senthillmohan, Yousef Ahmed, et al. (Point of Contact)
+- Sinthu Senthillmohan, Yousuf Ahmed, et al. (Point of Contact)
 - Jessica Trac, et al. (R&D Team Coordinator)
 ### Lakehead|NOSM's Parallel Initiative (Division of Clinical Sciences)
 - Michael Poling (3D print, face-shields, NOSM Faculty)
