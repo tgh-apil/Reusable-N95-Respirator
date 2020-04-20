@@ -99,8 +99,8 @@ Last: 17 April 2020
 ### APIL|UHN - https://apil.ca
 - Joshua Hiansen (Design Engineering, Print Lead, www.linkedin.com/in/joshuaqh/)
 - Vahid Anwari (Production, Biomedical Engineer, www.linkedin.com/in/vahid-anwari-3763973)
-### UofT ASE - Project Manager
-- Nasa Nguyen
+### UofT School of Applied Science & Engineering - Project Manager
+- Nasa Nguyen (Project Manager)
 ### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
 - Dr. Roche-Nagle, Professor of Vascular Surgery https://surgery.utoronto.ca/content/graham-roche-nagle
 ### CIGITI - https://www.cigiti.ca
@@ -109,7 +109,8 @@ Last: 17 April 2020
 ### UofT Mech Engineering
 - Arash Nourimand, Natasha Valenton (Fusion)
 ### UofT MD Program | Hamilton SoM "3D-PPE-GTHA" (Student Body, Community Presence, Logistics)
-- Sinthu, Jessica Trac, R&D Team, Yussef et al. (Contacts)
+- Sinthu Senthillmohan, Yousef Ahmed, et al. (Point of Contact)
+- Jessica Trac, et al. (R&D Team Coordinator)
 ### NOSM's Parallel Initiative (Division of Clinical Sciences)
 - Michael Poling (RT 3D print, face-shields)
 - Andre L (MRI Engineering, Lakehead) 
