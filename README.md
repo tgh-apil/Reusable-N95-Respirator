@@ -105,7 +105,7 @@ Last: 20 April 2020
 - Arash Nourimand, Natasha Valenton (Refinement Team: CAD-Fusion)
 ### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
 - Dr. Roche-Nagle, Professor of Vascular Surgery https://surgery.utoronto.ca/content/graham-roche-nagle
-### CIGITI - https://www.cigiti.ca
+### CIGITI, SickKids - https://www.cigiti.ca
 - Thomas Looi (Director)
 - Brandon Peel (Design)
 ### UofT MD Program | Hamilton SoM "3D-PPE-GTHA" (Student Body, Community Presence, Logistics)
