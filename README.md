@@ -129,6 +129,7 @@ Last: 20 April 2020
 - James Scott (OS & EH, www.dlsph.utoronto.ca/faculty-profile/scott-james-a/)
 - Alon Vaisman (UHN IPAC physician, UHN COVID-19 PPE team, UofT Infectious Diseases) 
 - Carla Luzzi (Anesthesia, www.linkedin.com/in/carla-luzzi-7aa661181)
+- Binu Jacobs (Research Scientist and Associate, www.linkedin.com/in/binu-jacob-98b53a95/)
 ### APIL|UHN - https://apil.ca
 - Joshua Hiansen (Design Engineering, Print Lead, www.linkedin.com/in/joshuaqh/)
 - Vahid Anwari (Production, Biomedical Engineer, www.linkedin.com/in/vahid-anwari-3763973)
