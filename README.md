@@ -51,7 +51,7 @@ Last: 20 April 2020
 ### Concordia (Wisconsin) masks
 - https://blog.cuw.edu/COVIDmasks/, both modification of Montana and dual-cartridge, folded 3DP models.
 
-## Prototype
+## Prototype, Refinement (Josh)
 - I3D XS, S, M prototypes built
 - Montana S, M, L size (modified)
 - NIH S, M. (XS needs redesigning)
@@ -64,7 +64,7 @@ Last: 20 April 2020
 - ~Adapter to ROXON filter functional as stop-gap option~ (no longer pursued given poor NIOSH testing)
 - ~single filter cartridge system with N95 medium~ (no longer pursued given poor breathability with good mask seal)
 
-## Local Testing
+## Local Testing (Andrew)
 ### Particulate and NIOSH test
 - James Scott and Jeff Brook from UofT OS & EH 13 April 2020 - proof of concept testing
 - excluded single FLAT N95 filter option, either double cartridge system, or pleated bacterial/viral filter required.
@@ -81,12 +81,44 @@ Last: 20 April 2020
 - https://gcttg.com/en/ (textiles transportation geosynthetics)
 - http://www.cambridgematerials.com (raw materials)
 
-### Decontamination
+### Decontamination (Vahid)
 - Designs ideally be washable in chlorox 1:10 (as for faceshields) and dried
 - Will eventually need microbiology to chip in
 - Viral testing is a possibility
 
-## Design, Production, Testing at Ontario Level
+## Regulation and Testing status
+### OHS Bitrex - pending
+### NIOSH - pending
+### ISO and CSA
+### HC and/or FDA
+
+## Budget
+### Capital outlay
+### Cost per unit
+### Labour
+### Delivery
+
+## Funding
+### Ontario Together initiative to help fight COVID-19, 
+- submitted: 12:30pm, 9 April 2020 by Will; responded to Ministry invitation, 18:15 17 April 2020.
+- margaret.kinyanjui@uhnresearch.ca with internal template and actual application
+### NSERC
+- submitting: 21 April 2020 by Will.
+### FastFund
+- submitted: 12 April 2020 by Carla
+### Other Sources
+- see contacts list
+- UHN Peter Munk Innovation Fund: due 20 Apr 2020
+### Community
+- Li Zhang (GLIA volunteer) to raise awareness and medium-term community funding
+
+## Long Term
+### Patent final product/s report
+### Non-Pandemic Use recommendations
+### Model refinement dependent on on-going funding
+### Publish then archived for future pandemic back-up response use
+
+## Team
 ### UofT
 - William Ng (Lead, Anesthesia, PI @ UHN APIL)
 - Azad Mashari (Director of UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
@@ -126,6 +158,9 @@ Last: 20 April 2020
 - Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 
 ### Affiliates and Contacts
+#### Dr. Nanthakumar from TGH Cardiology 
+- offering 3DP machines' spare capacity and engineering help
+- Stephane Masse (3DP Engineer)
 #### Manitoba Health Sciences Centre, 
 - Christian Petropolis (3DP Mask Lead, Plastics Surgery)
 - We agree to be their Ontario Partner
@@ -138,37 +173,3 @@ Last: 20 April 2020
 #### EM|UHN
 - Sameer Masoud/Masood (Emergency Physician, UHN and Humber). 
 - Aim to share filtering knowledge, testing results, combine human factors simulation.
-#### Dr. Nanthakumar from TGH Cardiology 
-- offering 3DP machines' spare capacity and engineering help
-
-## Regulation and Testing status
-### OHS Bitrex - pending
-### NIOSH - pending
-### ISO and CSA
-### HC and/or FDA
-
-## Budget
-### Capital outlay
-### Cost per unit
-### Labour
-### Delivery
-
-## Funding
-### Ontario Together initiative to help fight COVID-19, 
-- submitted: 12:30pm, 9 April 2020 by Will; responded to Ministry invitation, 18:15 17 April 2020.
-- margaret.kinyanjui@uhnresearch.ca with internal template and actual application
-### NSERC
-- submitting: 21 April 2020 by Will.
-### FastFund
-- submitted: 12 April 2020 by Carla
-### Other Sources
-- see contacts list
-- UHN Peter Munk Innovation Fund: due 20 Apr 2020
-### Community
-- Li Zhang (GLIA volunteer) to raise awareness and medium-term community funding
-
-## Long Term
-### Patent final product/s report
-### Non-Pandemic Use recommendations
-### Model refinement dependent on on-going funding
-### Publish then archived for future pandemic back-up response use
