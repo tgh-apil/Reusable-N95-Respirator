@@ -122,7 +122,7 @@ Last: 20 April 2020
 ### UofT
 - William Ng (Lead, Anesthesia, PI @ UHN APIL)
 - Azad Mashari (Director of UHN APIL, Anesthesia, www.anesthesia.utoronto.ca/content/azad-mashari)
-- Andrew Syrett (Testing, Publications, Anesthesia)
+- Andrew Syrett (Testing, Writer, Anesthesia, https://doctors.cpso.on.ca/DoctorDetails/Syrett-Andrew-James/0295170-103261)
 - Matt Ratto (TEDA Director, https://ischool.utoronto.ca/profile/matt-ratto/) 
 - Eric Greenwood (SickKids Advisor, Director of Equipment, www.anesthesia.utoronto.ca/content/eric-greenwood)
 - Devin Singh (Testing, Design input, Engineering PhD, Anesthesia, )
