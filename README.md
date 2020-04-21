@@ -71,6 +71,7 @@ Last: 17 April 2020
 - Consider pursuing N90 grade with Merv 15 filter (suggested by Queen's https://www.mcmaster.com/22905k28)
 
 ### OSHA and Bitrex Testing
+- Portacount or AccuFIT fit-testing as per OSHA/CSA protocol, standard 7 Fit-Factor Rubric: https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.134AppA
 - Pooling Non-UHN partners SickKids, Queen's University (KHSC), other OHS to perform CSA standard mask-fit test
 - Functional Test as form any in-person testing using "spray under the hood" Bitrex
 - UHN OHS involved, Craig Parsons and Sharon Martin (TBC by Frank Turner). Dr Hota's input solicited.
