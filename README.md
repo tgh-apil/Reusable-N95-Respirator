@@ -1,6 +1,6 @@
 Orig: William Ng et al. https://www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
-Last: 17 April 2020
+Last: 20 April 2020
 
 # Reusable-N95-Project 
 ## APIL-CIGITI-GLIA-Lakehead-NOSM-Queen's-UofT collab
@@ -74,7 +74,7 @@ Last: 17 April 2020
 - Portacount or AccuFIT fit-testing as per OSHA/CSA protocol, standard 7 Fit-Factor Rubric: https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.134AppA
 - Pooling Non-UHN partners SickKids, Queen's University (KHSC), other OHS to perform CSA standard mask-fit test
 - Functional Test as form any in-person testing using "spray under the hood" Bitrex
-- UHN OHS involved, Craig Parsons and Sharon Martin (TBC by Frank Turner). Dr Hota's input solicited.
+- UHN OHS involved, Craig Parsons and Sharon Martin (TBC by Frank Turner). UHN IPAC represented by Dr Alon Vaisman.
 
 ### Other centres through HC
 - https://www.intertek.com/canada/ (https://www.intertek.com/scientific-regulatory-consultancy/)
