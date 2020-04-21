@@ -11,5 +11,5 @@ Title: Designs and Refinements
 
 ### Manitoba Parts
 1. Manitoba Flat Harness Mould: https://a360.co/3cCDOWk (Arash)
-2. Mantioba Middle Mould enlarged: https://a360.co/2xBQWfM, 2nd part file https://a360.co/2RRTo8u (Will's fault, Natasha)
+2. Manitoba Middle Mould enlarged: https://a360.co/2xBQWfM, 2nd part file https://a360.co/2RRTo8u (Will's fault, Natasha)
 
