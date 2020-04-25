@@ -1,6 +1,6 @@
 Orig: William Ng et al. www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
-Last: 20 April 2020
+Last: 25 April 2020
 
 # Reusable-N95-Project 
 ## APIL-CIGITI-GLIA-Lakehead-NOSM-Queen's-UofT collab
@@ -18,13 +18,12 @@ Last: 20 April 2020
 *Current focus*:
 - form-fit test Manitoba Simple Silicone Respirator with HME bacterial/viral filters and focus on refining
 - ~form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters~ pause on this design
-- Fit-test Kingston Masks from Queen's
 
 *Weekly focus*:
 - Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW.
 
 *Medium term challenge*:
-- HME filter sourcing
+- HME filter sourcing - Merv-15 x 2-ply, Woodbridge INOAC 5-ply, Billings MERV 14 2-Ply, +/- 1-ply Halyard H100 Okay
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
 
 ## Options
@@ -55,7 +54,7 @@ Last: 20 April 2020
 - I3D XS, S, M prototypes built
 - Montana S, M, L size (modified)
 - NIH S, M. (XS needs redesigning)
-- Kingston XS, S, M, L, XL
+- Kingston XS, S, M, L, XL, Snowcone S, M - Fit-test Kingston Masks from Queen's - 23 April 2020
 - Manitoba SSR M (S to come)
 - Seal and fit problem
 - Onepiece Silicone Iteration required 16 April 2020
@@ -152,6 +151,8 @@ Last: 20 April 2020
 - Cesia Quintero & Megan Singh & Matt Snow (Founders)
 - James Garel Jones (VertiGrow, co-designer)
 - Taylor Sweet (YGK 3D, co-designer)
+### USASK's Engineering Team - google drive tbc
+- Grant Tingstad and Erik Olson (Engineers)
 ### GLIA NFP partner - https://glia.org
 - Carrie Wakem (Executive Director)
 - Seeking joint grant proposal for Peter Munk Innovation Fund (Aim for 19 April 2020)
