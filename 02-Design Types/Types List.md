@@ -31,6 +31,10 @@ Still nothing FDA of HC approved
 - Modification of Montana with different sizing, filter size, geometry
 - fit-testing done by OSH at KGH
 
+### Barrow Neurosurgery
+- https://www.barrowneuro.org/get-to-know-barrow/barrow-innovation-center-2/3d-printed-n95-mask/
+- Montana with silicone gasket and adapter for large 3M 2000 P100 filter type
+
 ### Billings, Montana
 - https://www.makethemasks.com
 - tested and used Billings Clinic, MT; ? in Utah; Kaiser San Diego;
