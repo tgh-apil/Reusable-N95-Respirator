@@ -53,15 +53,15 @@ Last: 25 April 2020
 - https://blog.cuw.edu/COVIDmasks/, both modification of Montana and dual-cartridge, folded 3DP models.
 
 ## Prototype, Refinement [(Josh et al.)](#APILUHN)
-- I3D XS, S, M prototypes built
-- Montana S, M, L size (modified)
-- NIH S, M. (XS needs redesigning)
+- Montana S, M, L size (modified) - (CIGITI|Brandon)
 - Kingston XS, S, M, L, XL, Snowcone S, M - Fit-test Kingston Masks from Queen's - 23 April 2020
-- Manitoba SSR M (S to come)
-- Seal and fit problem
-- Onepiece Silicone Iteration required 16 April 2020
+- Manitoba SSR M (S to come) - required 30 April 2020
+- Seal and fit problem - seal adequate 24 April 2020, comfort level
+- Onepiece Silicone Iteration - required 24 April 2020 - done
 - Filtration area needs to be maximally increased for WOB and any remote chance of getting NIOSH testing
-- Considering 2 filter cartridge system with tight seal (Brandon/Jay Pooley)
+- Considering 2 filter cartridge system with tight seal (Lakehead|Andre, APIL|UofT R&D, NOSM|Michael, Jay Pooley)
+- ~NIH S, M. (XS needs redesigning)~ - pause on this 15 April 2020
+- ~I3D XS, S, M prototypes built~ - archived
 - ~Adapter to ROXON filter functional as stop-gap option~ (no longer pursued given poor NIOSH testing)
 - ~single filter cartridge system with N95 medium~ (no longer pursued given poor breathability with good mask seal)
 
@@ -87,8 +87,12 @@ Last: 25 April 2020
 - Will eventually need microbiology to chip in
 - Viral testing is a possibility
 
-## [Production](03-Production) (UofT AScE|MD Teams)
-- 
+## [Production](03-Production) 
+- TBC: APIL, UofT AScE|MD Team, GLIA
+- Mould (Industry)
+- Silicone vs. Rubber (Industry)
+- Straps (Vahid)
+- Filter Material Sewing (Matt)
 
 ## [Regulation and Standards](https://github.com/bachnwill/Reusable-N95-Project/blob/master/05-Regulation/Regulatory%20List.md)
 ### ISO and CSA
