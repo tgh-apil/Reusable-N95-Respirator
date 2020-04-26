@@ -103,7 +103,11 @@ Last: 25 April 2020
 ### Capital outlay
 ### Cost per unit
 ### Labour
-### Delivery
+### Dissemination and Delivery
+- UHN|APIL
+- 3D GTHA
+- PPE Kingston
+- Partners
 
 ## Funding
 ### Ontario Together initiative to help fight COVID-19, 
