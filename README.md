@@ -13,7 +13,7 @@ Last: 25 April 2020
 - [dropbox repo](https://www.dropbox.com/sh/obloeuvwq4hgb9c/AABsScpr0sPUggimrvK3M9fYa?dl=0) (and other big files)uhn.ca
 
 ## [Mattermost](group.emlondon.ca)
-- Team chat channel, email [William Ng](william.ng@uhn.ca)
+- Team chat channel, email [William Ng](mailto:william.ng@uhn.ca)
 
 ## [Project Timeline](https://github.com/bachnwill/Reusable-N95-Project/blob/master/00-Timeline/Timeline%20Projection%20N95.md)
 - 00-Timeline/N95 Project Management 20200413.xlsx
