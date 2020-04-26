@@ -48,7 +48,7 @@ Last: 25 April 2020
 ### Concordia (Wisconsin) masks
 - https://blog.cuw.edu/COVIDmasks/, both modification of Montana and dual-cartridge, folded 3DP models.
 
-## Prototype, Refinement [(Josh et al.)](APIL|UHN)
+## Prototype, Refinement [(Josh et al.)](APILUHN)
 - I3D XS, S, M prototypes built
 - Montana S, M, L size (modified)
 - NIH S, M. (XS needs redesigning)
@@ -73,7 +73,7 @@ Last: 25 April 2020
 - Functional Test as form any in-person testing using "spray under the hood" Bitrex
 - UHN OHS involved, Craig Parsons and Sharon Martin (TBC by Frank Turner). UHN IPAC represented by Dr Alon Vaisman.
 
-### Other centres through [Health Canada]()
+### Other centres through [Health Canada](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid-19-unconventional-manufacturing-personal-protective-equipment.html)
 - https://www.intertek.com/canada/ (https://www.intertek.com/scientific-regulatory-consultancy/)
 - https://gcttg.com/en/ (textiles transportation geosynthetics)
 - http://www.cambridgematerials.com (raw materials)
