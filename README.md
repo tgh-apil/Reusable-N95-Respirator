@@ -3,7 +3,7 @@ Orig: [William Ng et al.](#Team) www.anesthesia.utoronto.ca/faculty/william-ck-n
 Last: 25 April 2020
 
 # Reusable-N95-Project 
-## [APIL](https://apil.ca)-CIGITI-[GLIA](https://glia.org)-[Lakehead](https://northernontarioppe.ca)-NOSM-Queen's-UofT collab
+## [APIL](https://apil.ca)-[CIGITI](https://www.cigiti.ca)-[GLIA](https://glia.org)-[Lakehead](https://northernontarioppe.ca)-NOSM-[Queen's](http://ppekingston.squarespace.com/)-[UofT](https://www.3dppegtha.ca) collab
 ### Urgent design, testing, recommendation, upscale in industry, dissemination of guidelines in light of disrupted N95 supply to COVID-19 era Canada
 - Investigate back-up stop-gap plan for N95 depletion in Ontario, Canada
 - Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
