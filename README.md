@@ -82,7 +82,7 @@ Last: 25 April 2020
 - https://gcttg.com/en/ (textiles transportation geosynthetics)
 - http://www.cambridgematerials.com (raw materials)
 
-### [Decontamination (Vahid)](https://github.com/bachnwill/Reusable-N95-Project/blob/master/06-Decontamination/Decontamination%20Protocol.md)
+## [Decontamination](https://github.com/bachnwill/Reusable-N95-Project/blob/master/06-Decontamination/Decontamination%20Protocol.md) [(Vahid)](#APIL|UHN)
 - Designs ideally be washable in chlorox 1:10 (as for faceshields) and dried
 - Will eventually need microbiology to chip in
 - Viral testing is a possibility
