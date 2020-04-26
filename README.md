@@ -1,4 +1,4 @@
-Orig: [William Ng et al.](##Team) www.anesthesia.utoronto.ca/faculty/william-ck-ng
+Orig: [William Ng et al.](#Team) www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
 Last: 25 April 2020
 
