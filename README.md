@@ -136,7 +136,7 @@ Last: 25 April 2020
 - [Joshua Hiansen (Design Engineering, Print Lead)](www.linkedin.com/in/joshuaqh/)
 - [Vahid Anwari (Production, Biomedical Engineer)](www.linkedin.com/in/vahid-anwari-3763973)
 ### UofT School of Applied Science & Engineering; Mechanical Engineering
-- [Nasa Nguyen](https://www.linkedin.com/in/nasanguyen/) (Project Manager)
+- [Nasa Nguyen](https://www.linkedin.com/in/nasanguyen/) (Project Manager), [email](mailto:nasa.nguyen@mail.utoronto.ca)
 - [Arash Nourimand](https://www.linkedin.com/in/arash-nourimand/) (R&D Team: CAD-Fusion)
 - [Natasha Valenton](https://www.linkedin.com/in/natasha-valenton/) (R&D Team: CAD-Fusion)
 ### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
