@@ -27,7 +27,7 @@ Last: 25 April 2020
 - Andrew LaFreniere, Michael Poling, Jessica Trac, UofT R&D Team, 
 
 *Medium term challenge*:
-- HME filter sourcing - Merv-15 x 2-ply, Woodbridge INOAC 5-ply, Billings MERV 14 2-Ply, +/- 1-ply Halyard H100 Okay
+- HME filter sourcing - Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply +/- 1-ply Halyard H100 Okay
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
 
 ## [Design Options](https://github.com/bachnwill/Reusable-N95-Project/tree/master/02-Design%20Types)
