@@ -65,7 +65,7 @@ Last: 25 April 2020
 - ~Adapter to ROXON filter functional as stop-gap option~ (no longer pursued given poor NIOSH testing)
 - ~single filter cartridge system with N95 medium~ (no longer pursued given poor breathability with good mask seal)
 
-## [Local Testing](https://github.com/bachnwill/Reusable-N95-Project/tree/master/04-Testing) [(Andrew)](#Team)
+## [Local Testing](https://github.com/bachnwill/Reusable-N95-Project/tree/master/04-Testing) [(Andrew)](#UofT)
 ### Particulate and NIOSH test
 - James Scott and Jeff Brook from UofT OS & EH 13 April 2020 - proof of concept testing
 - excluded single FLAT N95 filter option, either double cartridge system, or pleated bacterial/viral filter required.
@@ -82,7 +82,7 @@ Last: 25 April 2020
 - https://gcttg.com/en/ (textiles transportation geosynthetics)
 - http://www.cambridgematerials.com (raw materials)
 
-## [Decontamination](https://github.com/bachnwill/Reusable-N95-Project/blob/master/06-Decontamination/Decontamination%20Protocol.md) [(Vahid)](#APIL|UHN)
+## [Decontamination](https://github.com/bachnwill/Reusable-N95-Project/blob/master/06-Decontamination/Decontamination%20Protocol.md) [(Vahid)](#APILUHN)
 - Designs ideally be washable in chlorox 1:10 (as for faceshields) and dried
 - Will eventually need microbiology to chip in
 - Viral testing is a possibility
