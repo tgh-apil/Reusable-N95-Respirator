@@ -48,7 +48,7 @@ Last: 25 April 2020
 ### Concordia (Wisconsin) masks
 - https://blog.cuw.edu/COVIDmasks/, both modification of Montana and dual-cartridge, folded 3DP models.
 
-## Prototype, Refinement [(Josh et al.)](APILUHN)
+## Prototype, Refinement [(Josh et al.)](#APILUHN)
 - I3D XS, S, M prototypes built
 - Montana S, M, L size (modified)
 - NIH S, M. (XS needs redesigning)
