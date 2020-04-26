@@ -65,7 +65,7 @@ Last: 25 April 2020
 - ~Adapter to ROXON filter functional as stop-gap option~ (no longer pursued given poor NIOSH testing)
 - ~single filter cartridge system with N95 medium~ (no longer pursued given poor breathability with good mask seal)
 
-## [Local Testing](https://github.com/bachnwill/Reusable-N95-Project/tree/master/04-Testing) (Andrew)
+## [Local Testing](https://github.com/bachnwill/Reusable-N95-Project/tree/master/04-Testing) [(Andrew)](#Team)
 ### Particulate and NIOSH test
 - James Scott and Jeff Brook from UofT OS & EH 13 April 2020 - proof of concept testing
 - excluded single FLAT N95 filter option, either double cartridge system, or pleated bacterial/viral filter required.
