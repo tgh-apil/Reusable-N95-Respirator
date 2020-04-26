@@ -10,7 +10,10 @@ Last: 25 April 2020
 
 ## [CAD Repo](https://www.dropbox.com/sh/obloeuvwq4hgb9c/AABsScpr0sPUggimrvK3M9fYa?dl=0)
 - github [~/Design Types](https://github.com/bachnwill/Reusable-N95-Project/blob/master/02-Design%20Types/Types%20List.md), or
-- [dropbox repo](https://www.dropbox.com/sh/obloeuvwq4hgb9c/AABsScpr0sPUggimrvK3M9fYa?dl=0) (and other big files)
+- [dropbox repo](https://www.dropbox.com/sh/obloeuvwq4hgb9c/AABsScpr0sPUggimrvK3M9fYa?dl=0) (and other big files)uhn.ca
+
+## [Mattermost](group.emlondon.ca)
+- Team chat channel, email [William Ng](william.ng@uhn.ca)
 
 ## [Project Timeline](https://github.com/bachnwill/Reusable-N95-Project/blob/master/00-Timeline/Timeline%20Projection%20N95.md)
 - 00-Timeline/N95 Project Management 20200413.xlsx
@@ -21,6 +24,7 @@ Last: 25 April 2020
 
 *Weekly focus*:
 - Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW.
+- Andrew LaFreniere, Michael Poling, Jessica Trac, UofT R&D Team, 
 
 *Medium term challenge*:
 - HME filter sourcing - Merv-15 x 2-ply, Woodbridge INOAC 5-ply, Billings MERV 14 2-Ply, +/- 1-ply Halyard H100 Okay
@@ -140,10 +144,12 @@ Last: 25 April 2020
 ### CIGITI, SickKids - https://www.cigiti.ca
 - [Thomas Looi (Director)](https://www.linkedin.com/in/thomas-looi-ba657a8/)
 - [Brandon Peel (Design)](https://www.linkedin.com/in/brandonpeel/)
-### UofT MD Program | Hamilton SoM ["3D-PPE-GTHA"](https://www.3dppegtha.ca) (Student Body, Community Presence, Logistics)
+### UofT MD Program | Hamilton SoM ["3D-PPE-GTHA"](https://www.3dppegtha.ca) 
+- Student Body, Community Presence, Logistics
 - Sinthu Senthillmohan, Yousuf Ahmed, et al. (Point of Contact)
 - Jessica Trac, et al. (R&D Team Coordinator)
-### Lakehead|[NOSM's Parallel Initiative](https://northernontarioppe.ca/) (Division of Clinical Sciences)
+### Lakehead|[NOSM's Parallel Initiative](https://northernontarioppe.ca/) 
+- Division of Clinical Sciences
 - Michael Poling (3D print, face-shields, NOSM Faculty)
 - Andre LaFreniere (Engineering, Lakehead) 
 - Alannah MaClean (Student Lead, NOSM)
