@@ -16,15 +16,14 @@ Last: 25 April 2020
 - Team chat channel, email [William Ng](mailto:william.ng@uhn.ca)
 
 ## [Project Timeline](https://github.com/bachnwill/Reusable-N95-Project/blob/master/00-Timeline/Timeline%20Projection%20N95.md)
-- 00-Timeline/N95 Project Management 20200413.xlsx
 
 *Current focus*:
 - form-fit test Manitoba Simple Silicone Respirator with HME bacterial/viral filters and focus on refining
 - ~form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters~ pause on this design
 
 *Weekly focus*:
-- Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW.
-- Andrew LaFreniere, Michael Poling, Jessica Trac, UofT R&D Team, 
+- Volunteer testing: aim 3 iterations max for every 52 volunteers. (Andrew et al.)
+- 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW. (Andrew LaFreniere, Michael Poling, Jessica Trac, UofT R&D Team)
 
 *Medium term challenge*:
 - HME filter sourcing - Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply +/- 1-ply Halyard H100 Okay
