@@ -26,21 +26,19 @@ Last: 25 April 2020
 - HME filter sourcing - Merv-15 x 2-ply, Woodbridge INOAC 5-ply, Billings MERV 14 2-Ply, +/- 1-ply Halyard H100 Okay
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
 
-## Options
+## [Design Options](https://github.com/bachnwill/Reusable-N95-Project/tree/master/02-Design%20Types)
 ### NIH released open sources
 - https://3dprint.nih.gov/collections/covid-19-response
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
 - UHN APIL modification to Unibody Silicone with adapter for 15mm to 22mm adapter.
 
 ### Simple Silicone Respirator by Christian Petropolis at HSC Manitoba
-- silicone material dragon skin sx pro to 10, durometer 2A - 10
+- silicone material dragon skin sx pro to 10, durometer 2A - 10A
 - attaches to commerical filters 15mm to 22mm; M size fits small to large; planning for S and L sizes.
-- working copy https://cad.onshape.com/documents/a5f5de31c4732fb3c077f7d9/w/7b1df48439473aaa39a18cc3/e/e7b3ab7f8894425fe0ec1df3
-- original cad https://cad.onshape.com/documents/912751c654360860ae260334/w/75644efc74b9616c5ac20c2f/e/7fecc2776bb556dd9c7c6a62
-- https://github.com/cpetropolis/Simple-Silicone-Respirator
+- [original cad](https://cad.onshape.com/documents/912751c654360860ae260334/w/75644efc74b9616c5ac20c2f/e/7fecc2776bb556dd9c7c6a62)
+- [Christian's Github](https://github.com/cpetropolis/Simple-Silicone-Respirator)
 
-### "Kingston" Mask - Queen's Initiative
-- http://ppekingston.squarespace.com/
+### ["Kingston" Mask - Queen's Initiative](http://ppekingston.squarespace.com/)
 - Modification of Montana with different sizing, filter size, geometry, *nose-pinching mechanism*
 - fit-testing done by OSH at KGH
 ### Montana 3D by Billings, Montana
@@ -87,7 +85,9 @@ Last: 25 April 2020
 
 ## [Regulation and Standards](https://github.com/bachnwill/Reusable-N95-Project/blob/master/05-Regulation/Regulatory%20List.md)
 ### ISO and CSA
-### [HC MDEL](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid19-personal-protective-equipment.html#a2) and [HC COVID-19 PPE](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid19-personal-protective-equipment.html)
+### Health Canada
+- [HC MDEL](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid19-personal-protective-equipment.html#a2), and 
+- [HC COVID-19 PPE](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid19-personal-protective-equipment.html)
 
 ## Budget
 ### Capital outlay
