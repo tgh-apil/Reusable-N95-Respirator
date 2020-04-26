@@ -117,7 +117,7 @@ Last: 25 April 2020
 
 ## Team
 ### UofT
-- [William Ng (Lead, Anesthesia, PI @ UHN APIL)](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
+- [William Ng (Lead, Anesthesia, Principal Investigator @ UHN|APIL)](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
 - [Azad Mashari (Director of UHN APIL, Anesthesia)](www.anesthesia.utoronto.ca/content/azad-mashari)
 - [Andrew Syrett (Testing, Writer, Anesthesia)](doctors.cpso.on.ca/DoctorDetails/Syrett-Andrew-James/0295170-103261)
 - [Matt Ratto (TEDA Director)](https://ischool.utoronto.ca/profile/matt-ratto/) 
