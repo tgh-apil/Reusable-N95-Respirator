@@ -36,7 +36,7 @@ Last: 25 April 2020
 - UHN APIL modification to Unibody Silicone with adapter for 15mm to 22mm adapter.
 
 ### Simple Silicone Respirator (MB-ON collab)
-- created by Dr. Christian Petropolis at HSC Manitoba; [UHN APIL refining, validating, and developing](#SSR MB-ON) 
+- created by Dr. Christian Petropolis at HSC Manitoba; [UHN APIL refining](#SSR MB-ON), validating, and developing 
 - silicone material dragon skin sx pro to 10, durometer 2A - 10A
 - attaches to commerical filters 15mm to 22mm; M size fits small to large; planning for S and L sizes.
 - [original cad](https://cad.onshape.com/documents/912751c654360860ae260334/w/75644efc74b9616c5ac20c2f/e/7fecc2776bb556dd9c7c6a62)
