@@ -1,6 +1,6 @@
 Orig: [William Ng et al.](#Team) www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
-Last: 25 April 2020
+Last: 28 April 2020
 
 # Reusable-N95-Project 
 ## [APIL](https://apil.ca)-[CIGITI](https://www.cigiti.ca)-[GLIA](https://glia.org)-[Lakehead](https://northernontarioppe.ca)-NOSM-[Queen's](http://ppekingston.squarespace.com/)-[UofT](https://www.3dppegtha.ca) collab
@@ -166,7 +166,7 @@ Last: 25 April 2020
 - Alannah MaClean (Student Lead, NOSM)
 ### [Queen's Parallel Initiative](http://ppekingston.squarespace.com/) (SoM)
 - Cesia Quintero & Megan Singh & Matt Snow (Founders)
-- James Garel Jones (VertiGrow, co-designer)
+- James Garel Jones ([VertiGrow](https://vertigrow.io), co-designer)
 - Taylor Sweet (YGK 3D, co-designer)
 ### USASK's Engineering Team - google drive tbc
 - Grant Tingstad (Engineer)
