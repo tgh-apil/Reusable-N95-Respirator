@@ -44,9 +44,10 @@ Last: 29 April 2020
 
 ### ["Kingston" Mask - Queen's Initiative](http://ppekingston.squarespace.com/)
 - Modification of Montana with different sizing, filter size, geometry, *nose-pinching mechanism*
+- working in parallel with USASK on sealing with silicone rims to flexible PLA/TPU mask bodies
 - fit-testing done by OSH at KGH
 ### [USASK Mask](https://medicine.usask.ca/news/2020/usask-engineering-team-designing-3d-printed-n95-masks-to-help-combat-covid-19.php)
-- Flexible TPU with silicone ring applied to mask-rim, large mask filter casing
+- Flexible TPU with silicone ring applied to mask-rim, *large* mask filter casing
 ### Montana 3D by Billings, Montana
 - website: Instagram #MakeTheMask, https://www.makethemasks.com
 ### Intermountain 3D (I3D) modification of Montana
