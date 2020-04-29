@@ -73,8 +73,8 @@ Last: 28 April 2020
 ### [OSHA and Bitrex Testing](https://github.com/bachnwill/Reusable-N95-Project/blob/master/04-Testing/Test%20Protocol%20-%20Bitrex.md)
 - Portacount or AccuFIT fit-testing as per OSHA/CSA protocol, standard 7 Fit-Factor Rubric: https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.134AppA
 - Pooling Non-UHN partners SickKids, Queen's University (KHSC), other OHS to perform CSA standard mask-fit test
-- Functional Test as form any in-person testing using "spray under the hood" Bitrex
-- UHN OHS involved, Craig Parsons and Sharon Martin (TBC by Frank Turner). UHN IPAC represented by Dr Alon Vaisman.
+- Functional Test as for any in-person testing using "spray under the hood" Bitrex
+- UHN OHS involved, Craig Parsons and Sharon Martin (Mgr Frank Turner). UHN IPAC represented by Dr Alon Vaisman.
 
 ### Other centres through [Health Canada](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid-19-unconventional-manufacturing-personal-protective-equipment.html)
 - https://www.intertek.com/canada/ (https://www.intertek.com/scientific-regulatory-consultancy/)
