@@ -1,9 +1,9 @@
 Orig: [William Ng et al.](#Team) www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
-Last: 28 April 2020
+Last: 29 April 2020
 
 # Reusable-N95-Project 
-## [APIL](https://apil.ca)-[CIGITI](https://www.cigiti.ca)-[GLIA](https://glia.org)-[Lakehead](https://northernontarioppe.ca)-NOSM-[Queen's](http://ppekingston.squarespace.com/)-[UofT](https://www.3dppegtha.ca) collab
+## [APIL](https://apil.ca)-[CIGITI](https://www.cigiti.ca)-[GLIA](https://glia.org)-[Lakehead](https://northernontarioppe.ca)-NOSM-[Queen's](http://ppekingston.squarespace.com/)-USASK-[UofT](https://www.3dppegtha.ca) collab
 ### Urgent design, testing, recommendation, upscale in industry, dissemination of guidelines in light of disrupted N95 supply to COVID-19 era Canada
 - Investigate back-up stop-gap plan for N95 depletion in Ontario, Canada, [see Article on Medium.com](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31)
 - Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
@@ -45,6 +45,8 @@ Last: 28 April 2020
 ### ["Kingston" Mask - Queen's Initiative](http://ppekingston.squarespace.com/)
 - Modification of Montana with different sizing, filter size, geometry, *nose-pinching mechanism*
 - fit-testing done by OSH at KGH
+### [USASK Mask](https://medicine.usask.ca/news/2020/usask-engineering-team-designing-3d-printed-n95-masks-to-help-combat-covid-19.php)
+- Flexible TPU with silicone ring applied to mask-rim, large mask filter casing
 ### Montana 3D by Billings, Montana
 - website: Instagram #MakeTheMask, https://www.makethemasks.com
 ### Intermountain 3D (I3D) modification of Montana
@@ -159,10 +161,14 @@ Last: 28 April 2020
 - Student Body, Community Presence, Logistics
 - Sinthu Senthillmohan, Yousuf Ahmed, et al. (Point of Contact)
 - Jessica Trac, et al. (R&D Team Coordinator)
+### UofT TEDA
+- Yu Zou (Polymer Printing)
+- Chandra Singh (Fluid Dynamics Engineering)
 ### Lakehead|[NOSM's Parallel Initiative](https://northernontarioppe.ca/) 
-- Division of Clinical Sciences
-- Michael Poling (3D print, face-shields, NOSM Faculty)
-- Andre LaFreniere (Engineering, Lakehead) 
+- Andre LaFreniere (Engineering, Lakehead)
+- Chris Murray (Engineering, Lakehead)
+- Siamak Elyasi (Engineering, Lakehead)
+- Michael Poling (3D print, face-shields, NOSM Faculty, Division of Clinical Sciences)
 - Alannah MaClean (Student Lead, NOSM)
 ### [Queen's Parallel Initiative](http://ppekingston.squarespace.com/) (SoM)
 - Cesia Quintero & Megan Singh & Matt Snow (Founders)
