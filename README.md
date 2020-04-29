@@ -18,7 +18,7 @@ Last: 28 April 2020
 ## [Project Timeline](https://github.com/bachnwill/Reusable-N95-Project/blob/master/00-Timeline/Timeline%20Projection%20N95.md)
 
 *Current focus*:
-- form-fit test Manitoba Simple Silicone Respirator with HME bacterial/viral filters and focus on refining
+- form-fit test Simple Silicone Respirator with Intersurgical AirGuard ~HME~ bacterial/viral filters focus on refining
 - ~form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters~ pause on this design
 
 *Weekly focus*:
@@ -26,14 +26,15 @@ Last: 28 April 2020
 - 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW. (Andrew LaFreniere, Michael Poling, Jessica Trac, UofT R&D Team)
 
 *Medium term challenge*:
-- HME filter sourcing - Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply +/- 1-ply Halyard H100 Okay
+- Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side
+- Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply +/- 1-ply Halyard H100 Okay
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
 
 ## [Design Options](https://github.com/bachnwill/Reusable-N95-Project/tree/master/02-Design%20Types)
 ### NIH released open sources
 - https://3dprint.nih.gov/collections/covid-19-response
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
-- UHN APIL modification to Unibody Silicone with adapter for 15mm to 22mm adapter.
+- UHN APIL modification to Unibody Silicone with *adapter for 15mm to 22mm adapter* (TBC).
 
 ### Simple Silicone Respirator (MB-ON collab)
 - created by Dr. Christian Petropolis at HSC Manitoba; [UHN APIL refining, validating, developing](https://github.com/bachnwill/Reusable-N95-Project/tree/master/02-Design%20Types/SSR%20MB-ON) 
