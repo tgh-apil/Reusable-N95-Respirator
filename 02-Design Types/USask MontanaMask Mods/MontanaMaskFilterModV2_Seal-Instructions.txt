@@ -1,0 +1,7 @@
+MontanaMaskFilterModV2
+
+Mask is intended to be used with soft silicone tubing (McMaster Products 5236k515 and 5236K507 or equivalent).
+ An air-filled silicone ring is formed by cutting larger tubing to length, coating inside with silicone bonding agent, and slipping small section of smaller tubing inside joints of larger tubing. 
+ Tubing is left to cure.
+
+ Once ring is formed, it can be placed inside the seal channel of the mask. The ring is meant to be removable so that mask and ring can be properly cleaned in between uses.
