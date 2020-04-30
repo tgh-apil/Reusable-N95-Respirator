@@ -142,7 +142,8 @@ Last: 29 April 2020
 - [Eric Greenwood (SickKids Advisor, Director of Equipment)](www.anesthesia.utoronto.ca/content/eric-greenwood)
 - [Devin Singh (Testing, Design input, Engineering PhD, Anesthesia)]()
 - [James Scott (OS & EH)](www.dlsph.utoronto.ca/faculty-profile/scott-james-a/)
-- Alon Vaisman (UHN IPAC physician, UHN COVID-19 PPE team, UofT Infectious Diseases) 
+- Alon Vaisman (UHN IPAC physician, UHN COVID-19 PPE team, UofT Infectious Diseases)
+- Dmitry Rozenberg (Respirology and Lung Transplant)
 - [Carla Luzzi (Anesthesia)](www.linkedin.com/in/carla-luzzi-7aa661181)
 - [Binu Jacobs (Research Scientist and Associate)](www.linkedin.com/in/binu-jacob-98b53a95/)
 ### APIL|UHN
@@ -163,7 +164,7 @@ Last: 29 April 2020
 - Sinthu Senthillmohan, Yousuf Ahmed, et al. (Point of Contact)
 - Jessica Trac, et al. (R&D Team Coordinator)
 ### UofT TEDA
-- Yu Zou (Polymer Printing)
+- Yu Zou (Materials Sciences, Polymer Printing)
 - Chandra Singh (Fluid Dynamics Engineering)
 ### Lakehead|[NOSM's Parallel Initiative](https://northernontarioppe.ca/) 
 - Andre LaFreniere (Engineering, Lakehead)
