@@ -154,8 +154,8 @@ Last: 29 April 2020
 - [Nasa Nguyen](https://www.linkedin.com/in/nasanguyen/) (Project Manager), [email](mailto:nasa.nguyen@mail.utoronto.ca)
 - [Arash Nourimand](https://www.linkedin.com/in/arash-nourimand/) (R&D Team: CAD-Fusion)
 - [Natasha Valenton](https://www.linkedin.com/in/natasha-valenton/) (R&D Team: CAD-Fusion)
-### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant CAD100K
-- [Graham Roche-Nagle, Professor of Vascular Surgery](https://surgery.utoronto.ca/content/graham-roche-nagle)
+### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant
+- [Graham Roche-Nagle, Vascular Surgery, partner Panon Plastics](https://surgery.utoronto.ca/content/graham-roche-nagle)
 ### CIGITI, SickKids - https://www.cigiti.ca
 - [Thomas Looi (Director)](https://www.linkedin.com/in/thomas-looi-ba657a8/)
 - [Brandon Peel (Design)](https://www.linkedin.com/in/brandonpeel/)
