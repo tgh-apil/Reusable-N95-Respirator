@@ -18,7 +18,7 @@ c.	Email: jeff.brook@utoronto.ca
 
 # QNFT (quantitative) Mask Fit Testing
 
-# Internal Contacts
+## Internal Contacts
 1.	UHN OCC Health and Safety – Craig Parsons (TGH Safety Manager)
 a.	via Will, email craig.parsons@uhn.ca
 2.	SickKids facility – Jason Maynes (or his technician)
@@ -28,11 +28,12 @@ c.	via Will, email Jason Maynes: jason.maynes@sickkids.ca
 
 3.	Will Ng/David Clinkard – both trained on PortaCount
 
-# External Contacts
+## External Contacts
 4.	Levitt-Safety – commercial fit testing company.
 a.	Email: gail.macpherson@levitt-safety.com
 
-Qualitative (QLFT) Mask Fit Testing (Bitrex)
+# Qualitative (QLFT) Mask Fit Testing (Bitrex)
+1. TGH (TBC)
 
 1.	Queen’s team (via Royal Military College, Dr. Dixon) – Via Leah Allen
 a.	Email: lallen@qmed.ca
