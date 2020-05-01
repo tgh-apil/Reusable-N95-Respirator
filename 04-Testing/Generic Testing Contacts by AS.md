@@ -1,6 +1,11 @@
 Orig: Andrew Syrett
-Last: 15 April 2020, Will Ng
+Last: 1 May 2020, Will Ng
 Upload as Markdown: Will
+
+Commercial Equipment, incl. ASTM testing
+- [Cambridge Testing, Missasauga](http://www.cambridgematerials.com/)
+- [Element (Material and Mechanical Testing)](https://www.element.com/locations/the-americas/burlington)
+- [NTS Automotive Testing](https://www.nts.com/location/kitchener-ontario/) (incl. biological, need mroe details)
 
 Particulate Filtration Testing
 
