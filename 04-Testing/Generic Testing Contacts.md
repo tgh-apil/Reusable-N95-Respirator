@@ -28,7 +28,7 @@ c.	via Will, email Jason Maynes: jason.maynes@sickkids.ca
 
 3.	Will Ng/David Clinkard – both trained on PortaCount
 
-External Contacts
+# External Contacts
 4.	Levitt-Safety – commercial fit testing company.
 a.	Email: gail.macpherson@levitt-safety.com
 
