@@ -32,7 +32,7 @@ c.	via Will, email Jason Maynes: jason.maynes@sickkids.ca
 4.	Levitt-Safety – commercial fit testing company.
 a.	Email: gail.macpherson@levitt-safety.com
 
-# Qualitative (QLFT) Mask Fit Testing (Bitrex)
+# QLFT (qualitative) Mask Fit Testing (Bitrex)
 1. TGH (TBC)
 
 1.	Queen’s team (via Royal Military College, Dr. Dixon) – Via Leah Allen
