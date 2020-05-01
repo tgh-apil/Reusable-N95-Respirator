@@ -186,7 +186,8 @@ Last: 1 May 2020
 ### GLIA NFP partner - https://glia.org
 - Carrie Wakem (Executive Director)
 - Jessica Schroeder (Mattermost)
-- Seeking joint grant proposal for Peter Munk Innovation Fund (Aim for 19 April 2020)
+- Jake Bender (LHSC)
+- ~Seeking joint grant proposal for Peter Munk Innovation Fund (Aim for 19 April 2020)~ (CV focus)
 ### Sick Kids Research
 - Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 
