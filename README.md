@@ -10,7 +10,7 @@ Last: 29 April 2020
 
 ## [CAD Repo](https://www.dropbox.com/sh/obloeuvwq4hgb9c/AABsScpr0sPUggimrvK3M9fYa?dl=0)
 - github [~/Design Types](https://github.com/bachnwill/Reusable-N95-Project/blob/master/02-Design%20Types/Types%20List.md), or
-- [dropbox repo](https://www.dropbox.com/sh/obloeuvwq4hgb9c/AABsScpr0sPUggimrvK3M9fYa?dl=0) (and other big files)uhn.ca
+- dropbox repo (and other big files, please ask William Ng)
 
 ## [Mattermost](group.emlondon.ca)
 - Team chat channel, email [William Ng](mailto:william.ng@uhn.ca)
