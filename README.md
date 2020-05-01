@@ -175,14 +175,17 @@ Last: 1 May 2020
 - Alannah MaClean (Student Lead, NOSM)
 ### McMaster
 - Victoria McKinnon (MD Program, Inksmith)
+- Samveg Shah (MD Program, Engineering)
 - Lawrence Porter (Sheridan College, School of Engineering)
 ### [Queen's Parallel Initiative](http://ppekingston.squarespace.com/) (SoM)
 - Cesia Quintero & Megan Singh & Matt Snow (Founders)
-- James Garel Jones ([VertiGrow](https://vertigrow.io), co-designer)
 - Taylor Sweet (YGK 3D, co-designer)
 ### USASK's Engineering Team - google drive tbc
 - Grant Tingstad (Engineer)
 - Erik Olson (Engineer)
+### Key Community Partners
+- Steve Cory ([Objex Unlimited](https://objexunlimited.com/), CEO)
+- James Garel Jones ([VertiGrow](https://vertigrow.io), co-designer)
 ### GLIA NFP partner - https://glia.org
 - Carrie Wakem (Executive Director)
 - Jessica Schroeder (Mattermost)
