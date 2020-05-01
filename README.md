@@ -1,6 +1,6 @@
 Orig: [William Ng et al.](#Team) www.anesthesia.utoronto.ca/faculty/william-ck-ng
 
-Last: 29 April 2020
+Last: 1 May 2020
 
 # Reusable-N95-Project 
 ## [APIL](https://apil.ca)-[CIGITI](https://www.cigiti.ca)-[GLIA](https://glia.org)-[Lakehead](https://northernontarioppe.ca)-McMaster-NOSM-[Queen's](http://ppekingston.squarespace.com/)-USASK-[UofT](https://www.3dppegtha.ca) collab
@@ -23,9 +23,10 @@ Last: 29 April 2020
 
 *Weekly focus*:
 - Volunteer testing: aim 3 iterations max for every 52 volunteers. (Andrew et al.)
-- 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW. (Andrew LaFreniere, Michael Poling, Jessica Trac, UofT R&D Team)
+- 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW. (Lakehead-NOSM Team, UofT R&D Team Andy, Arash, Jessica, Nasa, Natasha; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
 
 *Medium term challenge*:
+- Industry partner(s) to disseminate and upscale option(s).
 - Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side
 - Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply +/- 1-ply Halyard H100 Okay
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
@@ -197,6 +198,7 @@ Last: 29 April 2020
 - Christian Petropolis (3DP Mask Lead, Plastics Surgery)
 - We agree to be their Ontario Partner
 #### Industry and NHH
+- Rick Struthers (True North PP, owner)
 - Brian Read (ex-plastcs; industry co-ordinator) 
 #### Woodbridge indsutry, CEO Bob Magee
 - VP (NVH) Martin Mazza - Technical POC regarding filter
