@@ -33,7 +33,7 @@ Upload as Markdown: Will
 -	Email: gail.macpherson@levitt-safety.com
 
 # QLFT (qualitative) Mask Fit Testing (Bitrex)
-- TGH (TBC)
+1. TGH (TBC)
 
-1.	Queen’s team (via Royal Military College, Dr. Dixon) – Via Leah Allen
-a.	Email: lallen@qmed.ca
+2. Queen’s team (via Royal Military College, Dr. Dixon) – Via Leah Allen
+- Email: lallen@qmed.ca
