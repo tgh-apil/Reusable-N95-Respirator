@@ -9,13 +9,13 @@ Last: 1 May 2020
 - Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ## [CAD Repo](https://www.dropbox.com/sh/obloeuvwq4hgb9c/AABsScpr0sPUggimrvK3M9fYa?dl=0)
-- github [~/Design Types](https://github.com/bachnwill/Reusable-N95-Project/blob/master/02-Design%20Types/Types%20List.md), or
+- github [~/Design Types](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/02-Design%20Types/Types%20List.md), or
 - dropbox repo (and other big files, please ask [William Ng](mailto:william.ng@uhn.ca))
 
 ## [Mattermost](group.emlondon.ca)
 - Team chat channel, email [William Ng](mailto:william.ng@uhn.ca)
 
-## [Project Timeline](https://github.com/bachnwill/Reusable-N95-Project/blob/master/00-Timeline/Timeline%20Projection%20N95.md)
+## [Project Timeline](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/00-Timeline/Timeline%20Projection%20N95.md)
 
 *Current focus*:
 - form-fit test Simple Silicone Respirator with Intersurgical AirGuard ~HME~ bacterial/viral filters focus on refining
@@ -32,14 +32,14 @@ Last: 1 May 2020
 - Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply +/- 1-ply Halyard H100 Okay
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
 
-## [Design Options](https://github.com/bachnwill/Reusable-N95-Project/tree/master/02-Design%20Types)
+## [Design Options](https://github.com/tgh-apil/Reusable-N95-Project/tree/master/02-Design%20Types)
 ### NIH released open sources
 - https://3dprint.nih.gov/collections/covid-19-response
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
 - UHN APIL modification to Unibody Silicone with *adapter for 15mm to 22mm adapter* (TBC).
 
 ### Simple Silicone Respirator (MB-ON collab)
-- created by Christian Petropolis (Plastics Surgery) at HSC Manitoba; [UHN APIL refining, validating, developing](https://github.com/bachnwill/Reusable-N95-Project/tree/master/02-Design%20Types/SSR%20MB-ON) 
+- created by Christian Petropolis (Plastics Surgery) at HSC Manitoba; [UHN APIL refining, validating, developing](https://github.com/tgh-apil/Reusable-N95-Project/tree/master/02-Design%20Types/SSR%20MB-ON) 
 - silicone material dragon skin sx pro to 10, durometer 2A - 10A
 - attaches to commerical filters 15mm to 22mm; M size fits small to large; planning for S and L sizes.
 - [original cad](https://cad.onshape.com/documents/912751c654360860ae260334/w/75644efc74b9616c5ac20c2f/e/7fecc2776bb556dd9c7c6a62), [Christian's Github](https://github.com/cpetropolis/Simple-Silicone-Respirator)
@@ -70,13 +70,13 @@ Last: 1 May 2020
 - ~Adapter to ROXON filter functional as stop-gap option~ (no longer pursued given poor NIOSH testing)
 - ~single filter cartridge system with N95 medium~ (no longer pursued given poor breathability with good mask seal)
 
-## [Local Testing](https://github.com/bachnwill/Reusable-N95-Project/tree/master/04-Testing) [(Andrew)](#UofT)
+## [Local Testing](https://github.com/tgh-apil/Reusable-N95-Project/tree/master/04-Testing) [(Andrew)](#UofT)
 ### Particulate and NIOSH test
 - James Scott and Jeff Brook from UofT OS & EH 13 April 2020 - proof of concept testing
 - excluded single FLAT N95 filter option, either double cartridge system, or pleated bacterial/viral filter required.
 - Consider pursuing N90 grade with Merv 15 filter (suggested by Queen's https://www.mcmaster.com/22905k28)
 
-### [OSHA and Bitrex Testing](https://github.com/bachnwill/Reusable-N95-Project/blob/master/04-Testing/Test%20Protocol%20-%20Bitrex.md)
+### [OSHA and Bitrex Testing](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/04-Testing/Test%20Protocol%20-%20Bitrex.md)
 - Portacount or AccuFIT fit-testing as per OSHA/CSA protocol, standard 7 Fit-Factor Rubric: https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.134AppA
 - Pooling Non-UHN partners SickKids, Queen's University (KHSC), other OHS to perform CSA standard mask-fit test
 - Functional Test as for any in-person testing using "spray under the hood" Bitrex
@@ -87,7 +87,7 @@ Last: 1 May 2020
 - https://gcttg.com/en/ (textiles transportation geosynthetics)
 - http://www.cambridgematerials.com (raw materials)
 
-## [Decontamination](https://github.com/bachnwill/Reusable-N95-Project/blob/master/06-Decontamination/Decontamination%20Protocol.md) [(Vahid)](#APILUHN)
+## [Decontamination](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/06-Decontamination/Decontamination%20Protocol.md) [(Vahid)](#APILUHN)
 - Designs ideally be washable in chlorox 1:10 (as for faceshields) and dried
 - Will eventually need microbiology to chip in
 - Viral testing is a possibility
@@ -100,7 +100,7 @@ Last: 1 May 2020
 - Filter Material, Seams (Yu, Chandra, Matt)
 - Filter Adapter and Ecnasing (UofT R&D)
 
-## [Regulation and Standards](https://github.com/bachnwill/Reusable-N95-Project/blob/master/05-Regulation/Regulatory%20List.md)
+## [Regulation and Standards](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/05-Regulation/Regulatory%20List.md)
 ### ISO and CSA
 ### Health Canada
 - [HC MDEL](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid19-personal-protective-equipment.html#a2), and 
