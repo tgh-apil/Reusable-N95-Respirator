@@ -23,7 +23,7 @@ Last: 1 May 2020
 
 *Weekly focus*:
 - Volunteer testing: aim 3 iterations max for every 52 volunteers. (Andrew et al.)
-- 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW. (Lakehead-NOSM Team Andre, Mike, Mohammed; UofT R&D Team Andy, Arash, Jessica, Nasa, Natasha; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
+- 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW. (Lakehead-NOSM Team Andre, Chris, Mike, Siamak; UofT R&D Team Arash, Chandra, Jessica, Nasa, Natasha, Yu; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
 
 *Medium term challenge*:
 - Industry partner(s) to disseminate and upscale option(s).
