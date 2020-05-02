@@ -97,7 +97,8 @@ Last: 1 May 2020
 - Mould (Industry)
 - Silicone vs. Rubber (Industry)
 - Straps (Vahid)
-- Filter Material Sewing (Matt)
+- Filter Material, Seams (Yu, Chandra, Matt)
+- Filter Adapter and Ecnasing (UofT R&D)
 
 ## [Regulation and Standards](https://github.com/bachnwill/Reusable-N95-Project/blob/master/05-Regulation/Regulatory%20List.md)
 ### ISO and CSA
@@ -167,7 +168,7 @@ Last: 1 May 2020
 - Jessica Trac, et al. (R&D Team Coordinator)
 ### UofT TEDA
 - Yu Zou (Materials Sciences, Polymer Printing)
-- Chandra Singh (Fluid Dynamics Engineering)
+- Chandra Singh (Materials, Fluid Dynamics Engineering)
 ### Lakehead|[NOSM's Parallel Initiative](https://northernontarioppe.ca/) 
 - Andre LaFreniere (Engineering, Lakehead)
 - Chris Murray (Engineering, Lakehead)
