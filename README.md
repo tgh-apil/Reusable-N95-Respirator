@@ -1,4 +1,4 @@
-Orig: [William Ng et al.](#Team) www.anesthesia.utoronto.ca/faculty/william-ck-ng
+Orig: [William Ng et al.](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
 
 Last: 1 May 2020
 
@@ -23,11 +23,12 @@ Last: 1 May 2020
 
 *Weekly focus*:
 - Volunteer testing: aim 3 iterations max for every 52 volunteers. (Andrew et al.)
-- 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start NOW. (Lakehead-NOSM Team Andre, Chris, Mike, Siamak; UofT R&D Team Arash, Chandra, Jessica, Nasa, Natasha, Yu; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
+- 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start *now*. (Lakehead-NOSM Team Andre, Chris, Mike, Siamak; UofT R&D Team Arash, Chandra, Jessica, Nasa, Natasha, Yu; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
 
 *Medium term challenge*:
+- Filter Material alternative apart from prefabricated options (Lakehead-NOSM-UofT).
 - Industry partner(s) to disseminate and upscale option(s).
-- Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side
+- Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side (DAR, Intersurgical)
 - Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply +/- 1-ply Halyard H100 Okay
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
 
@@ -173,7 +174,8 @@ Last: 1 May 2020
 - Siamak Elyasi (Engineering, Lakehead)
 - Michael Poling (3D print, face-shields, NOSM Faculty, Division of Clinical Sciences)
 - Alannah MaClean (Student Lead, NOSM)
-### McMaster
+### McMaster University
+- Clinical Lead - TBC
 - Victoria McKinnon (MD Program, Inksmith)
 - Samveg Shah (MD Program, Engineering)
 - Lawrence Porter (Sheridan College, School of Engineering)
