@@ -1,12 +1,15 @@
 Orig: [William Ng et al.](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
 
-Last: 1 May 2020
+Last: 3 May 2020
+
+Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31?sk=8cc15ac6d79773021198b74c7c400207)
 
 # Reusable-N95-Project 
 ## [APIL](https://apil.ca)-[CIGITI](https://www.cigiti.ca)-[GLIA](https://glia.org)-[Lakehead](https://northernontarioppe.ca)-McMaster-NOSM-[Queen's](http://ppekingston.squarespace.com/)-USASK-[UofT](https://www.3dppegtha.ca) collab
-### Urgent design, testing, recommendation, upscale in industry, dissemination of guidelines in light of disrupted N95 supply to COVID-19 era Canada
+### Urgent design, testing, recommendation, upscale, dissemination of stop-gap N95 mask options with guidelines in light of disrupted N95 supply to COVID-19 era Canada
+- This collaborative is an open-source, data-sharing, parallel development of the common goal (see CERN 2.0 License)
 - Investigate back-up stop-gap plan for N95 depletion in Ontario, Canada, [see Article on Medium.com](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31)
-- Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
+- Reuse of disposable N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ## [CAD Repo](https://www.dropbox.com/sh/obloeuvwq4hgb9c/AABsScpr0sPUggimrvK3M9fYa?dl=0)
 - github [~/Design Types](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/02-Design%20Types/Types%20List.md), or
