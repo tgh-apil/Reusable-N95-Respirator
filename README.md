@@ -9,7 +9,7 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 ### Urgent design, testing, recommendation, upscale, dissemination of stop-gap N95 mask options with guidelines in light of disrupted N95 supply to COVID-19 era Canada
 - This collaborative is an open-source, data-sharing, parallel development of the common goal (see CERN 2.0 License)
 - Investigate back-up stop-gap plan for N95 depletion in Ontario, Canada, [see Article on Medium.com](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31)
-- Reuse of N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
+- Reuse of disposable N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
 ## [CAD Repo](https://www.dropbox.com/sh/obloeuvwq4hgb9c/AABsScpr0sPUggimrvK3M9fYa?dl=0)
 - github [~/Design Types](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/02-Design%20Types/Types%20List.md), or
