@@ -2,7 +2,7 @@ Orig: [William Ng et al.](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
 
 Project: Reusable N95 Respirator aka "RNR"
 
-Last: 3 May 2020
+Last: 4 May 2020
 
 Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31?sk=8cc15ac6d79773021198b74c7c400207)
 
@@ -31,10 +31,11 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start *now*. (Lakehead-NOSM Team Andre, Chris, Mike, Siamak; UofT R&D Team Arash, Chandra, Jessica, Nasa, Natasha, Yu; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
 
 *Medium term challenge*:
-- Filter Material alternative apart from prefabricated options (Lakehead-NOSM-UofT).
+- 3rd Leap: Complete filter replacement solution.
+-- Filter Material alternative apart from prefabricated options (Lakehead-NOSM-UofT).
+-- Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply, MERV-14 +/- 1-ply Halyard H100/H300 Okay
 - Industry partner(s) to disseminate and upscale option(s).
 - Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side (DAR, Intersurgical)
-- Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply +/- 1-ply Halyard H100 Okay
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
 
 ## [Design Options](https://github.com/tgh-apil/Reusable-N95-Project/tree/master/02-Design%20Types)
