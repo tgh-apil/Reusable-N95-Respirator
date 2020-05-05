@@ -32,8 +32,8 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 
 *Medium term challenge*:
 - 3rd Leap: Complete filter replacement solution.
--- Filter Material alternative apart from prefabricated options (Lakehead-NOSM-UofT).
--- Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply, MERV-14 +/- 1-ply Halyard H100/H300 Okay
+- Filter Material alternative apart from prefabricated options (Lakehead-NOSM-UofT).
+- Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply, MERV-14 +/- 1-ply Halyard H100/H300 Okay
 - Industry partner(s) to disseminate and upscale option(s).
 - Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side (DAR, Intersurgical)
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
