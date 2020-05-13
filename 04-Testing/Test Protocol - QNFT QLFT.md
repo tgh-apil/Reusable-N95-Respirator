@@ -9,11 +9,13 @@ Last: 2020-05-12
 - TSI PortaCount (r) or Levitt-Safety AccuFIT (r)
 - https://en.wikipedia.org/wiki/Respirator_fit_test#Quantitative
 
-## Continuous Negative Pressure
+## Continuous Negative Pressure "Air Leak Test"
 - Quantifit 3000 from OHD
 - https://ohdusa.com/
 
 ## APF
+- APF 10 for N95
+- 
 
 # QLFT
 ## Bitrex testing "spray-under-hood" with UHN OHS or UofT OSEH
