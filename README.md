@@ -2,7 +2,7 @@ Orig: [William Ng et al.](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
 
 Project: Reusable N95 Respirator aka "RNR"
 
-Last: 4 May 2020
+Last: 12 May 2020
 
 Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31?sk=8cc15ac6d79773021198b74c7c400207)
 
@@ -13,7 +13,7 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Investigate back-up stop-gap plan for N95 depletion in Ontario, Canada, [see Article on Medium.com](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31)
 - Reuse of disposable N95 is preferred at this stage by decontamination (VPHP, UVGI, Heat).
 
-## [CAD Repo](https://www.dropbox.com/sh/obloeuvwq4hgb9c/AABsScpr0sPUggimrvK3M9fYa?dl=0)
+## CAD Repo
 - github [~/Design Types](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/02-Design%20Types/Types%20List.md), or
 - dropbox repo (and other big files, please ask [William Ng](mailto:william.ng@uhn.ca))
 
@@ -27,18 +27,26 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - ~form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters~ pause on this design
 
 *Weekly focus*:
-- Volunteer testing: aim 3 iterations max for every 52 volunteers. (Andrew et al.)
+- Volunteer testing: *SSM + AirGuard pass rate ~95%, 3M ~75%, n=21.* 
+- Aim 3 iterations max for every 52 volunteers. (Andrew et al.)
+- TME Inc. with 2nd stop-gap for testing, TBC
+- Reduce silicone load of SSM by 25%
 - 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start *now*. (Lakehead-NOSM Team Andre, Chris, Mike, Siamak; UofT R&D Team Arash, Chandra, Jessica, Nasa, Natasha, Yu; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
 
 *Medium term challenge*:
+- Multi-site testing for reproducibility and validation.
 - 3rd Leap: Complete filter replacement solution.
-- Filter Material alternative apart from prefabricated options (Lakehead-NOSM-UofT).
-- Merv-15 x 2-ply, Billings MERV 14 2-Ply, Woodbridge INOAC 5-ply, MERV-14 +/- 1-ply Halyard H100/H300 Okay
-- Industry partner(s) to disseminate and upscale option(s).
+- Industry partner(s) to produce own mask body and/or disseminate SSM and upscale option(s).
 - Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side (DAR, Intersurgical)
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
 
 ## [Design Options](https://github.com/tgh-apil/Reusable-N95-Project/tree/master/02-Design%20Types)
+### SSM (UHN APIL and CIGITI)
+- Derived from SSR, new Geometry, new mould, new process.
+- Modular adapters that can fit anything to silicone seal.
+- 90% downsize
+- New prototype with 3 modular adapters for 2 filters and 1 exp. valve or 1 filter and 2 exp. valves, or other combo
+
 ### NIH released open sources
 - https://3dprint.nih.gov/collections/covid-19-response
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
@@ -104,7 +112,7 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Silicone vs. Rubber (Industry)
 - Straps (Vahid)
 - Filter Material, Seams (Yu, Chandra, Matt)
-- Filter Adapter and Ecnasing (UofT R&D)
+- Filter Adapter and Encasing (UofT R&D)
 
 ## [Regulation and Standards](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/05-Regulation/Regulatory%20List.md)
 ### ISO and CSA
@@ -127,9 +135,11 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - submitted: 12:30pm, 9 April 2020 by Will; responded to Ministry invitation, 18:15 17 April 2020.
 - margaret.kinyanjui@uhnresearch.ca with internal template and actual application
 ### NSERC
-- submitted: 25 April 2020 by Will.
+- submitted: 25 April 2020 by Will
 ### FastFund
 - submitted: 12 April 2020 by Carla
+### CIHR
+- submitted: 12 May 2020 by Will
 ### Other Sources
 - see contacts list
 - UHN Peter Munk Innovation Fund: due 20 Apr 2020
@@ -165,6 +175,8 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - [Natasha Valenton](https://www.linkedin.com/in/natasha-valenton/) (R&D Team: CAD-Fusion)
 ### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant
 - [Graham Roche-Nagle, Vascular Surgery, partner Panon Plastics](https://surgery.utoronto.ca/content/graham-roche-nagle)
+### UHN Kotra Group | UofT Krembil Research
+- [Lakshmi Kotra](https://pharmacy.utoronto.ca/faculty/lakshmi-kotra) (Viral RT-PCR)
 ### CIGITI, SickKids - https://www.cigiti.ca
 - [Thomas Looi (Director)](https://www.linkedin.com/in/thomas-looi-ba657a8/)
 - [Brandon Peel (Design)](https://www.linkedin.com/in/brandonpeel/)
@@ -182,7 +194,7 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Michael Poling (3D print, face-shields, NOSM Faculty, Division of Clinical Sciences)
 - Alannah MaClean (Student Lead, NOSM)
 ### McMaster University
-- Clinical Lead - TBC
+- Clinical Leads: Suneel Upadhye and Rahim Valani
 - Victoria McKinnon (MD Program, Inksmith)
 - Samveg Shah (MD Program, Engineering)
 - Lawrence Porter (Sheridan College, School of Engineering)
@@ -202,6 +214,10 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Jessica Schroeder (Mattermost)
 - Jake Bender (LHSC)
 - ~Seeking joint grant proposal for Peter Munk Innovation Fund (Aim for 19 April 2020)~ (CV focus)
+#### EM|UHN
+- Sameer Masood (Emergency Physician, UHN and Humber)
+- Expiratory TAVISH-like valve with filter
+- Aim to share filtering knowledge, testing results, combine human factors simulation.
 ### Sick Kids Research
 - Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 
@@ -212,13 +228,12 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 #### [Manitoba Health Sciences Centre](https://github.com/cpetropolis/Simple-Silicone-Respirator)
 - Christian Petropolis (3DP Mask Lead, Plastics Surgery)
 - We agree to be their Ontario Partner
-#### Industry and NHH
+#### Other Industry
 - Rick Struthers (True North PP, owner)
+- Lucia Iannantuono (McMaster Engineering, TN 3S)
 - Brian Read (ex-plastcs; industry co-ordinator) 
 #### Woodbridge indsutry, CEO Bob Magee
 - VP (NVH) Martin Mazza - Technical POC regarding filter
 #### NHH (Northumberland Hills Hospital)
 - Mukesh Bhargava (Director)
-#### EM|UHN
-- Sameer Masoud/Masood (Emergency Physician, UHN and Humber) 
-- Aim to share filtering knowledge, testing results, combine human factors simulation.
+
