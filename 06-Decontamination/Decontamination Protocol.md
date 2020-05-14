@@ -3,7 +3,7 @@ Original: William Ng
 
 Last: 13 May 2020
 
-Thanks: Jake Bender and Tarek's white paper in Mar 2020
+Thanks: Jake Bender and Tarek Loubani's white paper in Mar 2020
 
 Aim: Adapt to institutional requirement
 
