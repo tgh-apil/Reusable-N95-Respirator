@@ -9,6 +9,11 @@ Last: 2020-05-12
 - TSI PortaCount (r) or Levitt-Safety AccuFIT (r)
 - https://en.wikipedia.org/wiki/Respirator_fit_test#Quantitative
 
+## NIOSH US BiVariate Facial type
+- https://www.cdc.gov/niosh/npptl/resources/pressrel/letters/conformityinterp/CA-2019-1011.html
+- Andrew: "the total number needed is 18.  See the table in the attached document.  This is the minimum number so long as you meet the number required according to the population distribution."
+- technically 2 donnings per mask type.
+
 ## Continuous Negative Pressure "Air Leak Test"
 - Quantifit 3000 from OHD
 - https://ohdusa.com/
@@ -22,6 +27,14 @@ Last: 2020-05-12
 - Date TBC
 - Location TBC
 
+# ASTM Testing
+## Interteks
+- ~ $2000 to $3000 (per Leah Allen, Queen's May 2020)
+- BFE, PFE, Fluid Resistance, Flame Spread, Delta P (breathability)
+
+## Surgical Mask
+### Breathability
+- FT2100 standard
 
 ___
 
