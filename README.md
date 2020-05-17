@@ -1,6 +1,6 @@
 Orig: [William Ng et al.](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
 
-Project: Reusable N95 Respirator aka "RNR"
+Project: Reusable N95 Respirator aka "RNR", aka "Reusable N95 Stop-Gap" in the time of pandemic
 
 Last: 17 May 2020
 
