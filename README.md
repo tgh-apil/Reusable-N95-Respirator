@@ -32,18 +32,23 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - TME Inc. with 2nd stop-gap for testing, TBC
 - modified NIOSH 19 or 20 May 2020
 - Reduce silicone load of SSM by 25%
-- 
+- SSM Dual Port prototype with insp. and exp. silicone valves, +/- TAVISH valves from Sameeer
+- Bayonet adapter prototype test 3M 2000 and 6000X series
+- Funding (MITCAs, OCE, NRC)
 
 *Filter Challenge*
 - 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start *now*. (Lakehead-NOSM Team Andre, Chris, Mike, Siamak; UofT R&D Team Arash, Chandra, Jessica, Nasa, Natasha, Yu; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
 - 3rd Leap: Complete filter replacement solution.
 
 *Medium term challenge*:
+- Send samples to partners (lakehead, queen's, others who enquire)
+- Funding
 - Multi-site testing for reproducibility and validation.
-- 
 - Industry partner(s) to produce own mask body and/or disseminate SSM and upscale option(s).
 - Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side (DAR, Intersurgical)
-- Estimation of unit *Cost* and *Time* to producing first 1000 units.
+- Comparative estimation of *Benefit*, *Cost* and *Time* to producing first 1000 units.
+- Set-up rolling working group Jul 2020 ff
+- *Pandemic Resurgence Jun 2020 - Aug 2020 ff*
 
 ## [Design Options](https://github.com/tgh-apil/Reusable-N95-Project/tree/master/02-Design%20Types)
 ### SSM (UHN APIL and CIGITI)
