@@ -52,11 +52,10 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 
 ## [Design Options](https://github.com/tgh-apil/Reusable-N95-Project/tree/master/02-Design%20Types)
 ### SSM (UHN APIL and CIGITI)
-- Derived from SSR, new Geometry, new mould, new process.
+- Derived from SSR, new geometry, new mould, new process.
 - Modular adapters that can fit anything to silicone seal.
-- 90% downsize
-- New prototype with 3 modular adapters for 2 filters and 1 exp. valve or 1 filter and 2 exp. valves, or other combo
-
+- SSM S - 90% downsize (73% by volume); will need 95% (86% by volume)
+- New prototype "Dual Port" with 3 modular adapters for 2 filters and 1 exp. valve or 1 filter and 2 exp. valves, or other combo
 ### Toronto MicroElectronics
 - Plastic with dual-collar silicone rim
 ### NIH released open sources
@@ -81,14 +80,15 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 ### Concordia (Wisconsin) masks
 - https://blog.cuw.edu/COVIDmasks/, both modification of Montana and dual-cartridge, folded 3DP models.
 
-## Prototype, Refinement [(Josh et al.)](#APILUHN)
-- Montana S, M, L size (modified) - (CIGITI|Brandon)
-- Kingston XS, S, M, L, XL, Snowcone S, M - Fit-test Kingston Masks from Queen's - 23 April 2020
-- Manitoba SSR M (S to come) - required 30 April 2020
-- Seal and fit problem - seal adequate 24 April 2020, comfort level
+## Prototype, Refinement [(Josh, Natasha, et al.)](#APILUHN)
+- SSM ~Manitoba SSR~ M (S done) - 8 May 2020
+- *SSM Dual Port M - prototype required 20 May 2020*
+- Seal and fit problem - seal adequate 24 April 2020, comfort and breathabilith (nasal pad adjustment)
 - Onepiece Silicone Iteration - required 24 April 2020 - done
 - Filtration area needs to be maximally increased for WOB and any remote chance of getting NIOSH testing
 - Considering 2 filter cartridge system with tight seal (Lakehead|Andre, APIL|UofT R&D, NOSM|Michael, Jay Pooley)
+- Montana S, M, L size (modified) - (CIGITI|Brandon)
+- Kingston XS, S, M, L, XL, Snowcone S, M - Fit-test Kingston Masks from Queen's - 23 April 2020
 - ~NIH S, M. (XS needs redesigning)~ - pause on this 15 April 2020
 - ~I3D XS, S, M prototypes built~ - archived
 - ~Adapter to ROXON filter functional as stop-gap option~ (no longer pursued given poor NIOSH testing)
