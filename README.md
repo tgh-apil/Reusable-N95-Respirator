@@ -2,7 +2,7 @@ Orig: [William Ng et al.](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
 
 Project: Reusable N95 Respirator aka "RNR"
 
-Last: 12 May 2020
+Last: 17 May 2020
 
 Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31?sk=8cc15ac6d79773021198b74c7c400207)
 
@@ -27,15 +27,20 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - ~form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters~ pause on this design
 
 *Weekly focus*:
-- Volunteer testing: *SSM + AirGuard pass rate ~95%, 3M ~75%, n=21.* 
+- Volunteer testing: *SSM + AirGuard pass rate >95%, 3M ~75%, n=26.* 
 - Aim 3 iterations max for every 52 volunteers. (Andrew et al.)
 - TME Inc. with 2nd stop-gap for testing, TBC
+- modified NIOSH 19 or 20 May 2020
 - Reduce silicone load of SSM by 25%
+- 
+
+*Filter Challenge*
 - 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start *now*. (Lakehead-NOSM Team Andre, Chris, Mike, Siamak; UofT R&D Team Arash, Chandra, Jessica, Nasa, Natasha, Yu; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
+- 3rd Leap: Complete filter replacement solution.
 
 *Medium term challenge*:
 - Multi-site testing for reproducibility and validation.
-- 3rd Leap: Complete filter replacement solution.
+- 
 - Industry partner(s) to produce own mask body and/or disseminate SSM and upscale option(s).
 - Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side (DAR, Intersurgical)
 - Estimation of unit *Cost* and *Time* to producing first 1000 units.
@@ -47,17 +52,17 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - 90% downsize
 - New prototype with 3 modular adapters for 2 filters and 1 exp. valve or 1 filter and 2 exp. valves, or other combo
 
+### Toronto MicroElectronics
+- Plastic with dual-collar silicone rim
 ### NIH released open sources
 - https://3dprint.nih.gov/collections/covid-19-response
 - many variations to choose from, apart form the above, which have gained traction and use in several hospitals
 - UHN APIL modification to Unibody Silicone with *adapter for 15mm to 22mm adapter* (TBC).
-
 ### Simple Silicone Respirator (MB-ON collab)
 - created by Christian Petropolis (Plastics Surgery) at HSC Manitoba; [UHN APIL refining, validating, developing](https://github.com/tgh-apil/Reusable-N95-Project/tree/master/02-Design%20Types/SSR%20MB-ON) 
 - silicone material dragon skin sx pro to 10, durometer 2A - 10A
 - attaches to commerical filters 15mm to 22mm; M size fits small to large; planning for S and L sizes.
 - [original cad](https://cad.onshape.com/documents/912751c654360860ae260334/w/75644efc74b9616c5ac20c2f/e/7fecc2776bb556dd9c7c6a62), [Christian's Github](https://github.com/cpetropolis/Simple-Silicone-Respirator)
-
 ### ["Kingston" Mask - Queen's Initiative](http://ppekingston.squarespace.com/)
 - Modification of Montana with different sizing, filter size, geometry, *nose-pinching mechanism*
 - working in parallel with USASK on sealing with silicone rims to flexible PLA/TPU mask bodies
@@ -162,31 +167,33 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - [Devin Singh (Testing, Design input, Engineering PhD, Anesthesia)]()
 - [James Scott (OS & EH)](www.dlsph.utoronto.ca/faculty-profile/scott-james-a/)
 - Alon Vaisman (UHN IPAC physician, UHN COVID-19 PPE team, UofT Infectious Diseases)
-- Dmitry Rozenberg (Respirology and Lung Transplant)
-- [Carla Luzzi (Anesthesia)](www.linkedin.com/in/carla-luzzi-7aa661181)
-- [Binu Jacobs (Research Scientist and Associate)](www.linkedin.com/in/binu-jacob-98b53a95/)
+- Dmitry Rozenberg (UHN Advisor, Respirology and Lung Transplant)
+- [Binu Jacobs (Senior Research Scientist)](www.linkedin.com/in/binu-jacob-98b53a95/)
 ### APIL|UHN
 - UHN Advanced Perioperative Imaging Lab (https://apil.ca)
 - [Joshua Hiansen (Design Engineering, Print Lead)](www.linkedin.com/in/joshuaqh/)
 - [Vahid Anwari (Production, Biomedical Engineer)](www.linkedin.com/in/vahid-anwari-3763973)
 ### UofT School of Applied Science & Engineering
 - [Nasa Nguyen](https://www.linkedin.com/in/nasanguyen/) (Project Manager), [email](mailto:nasa.nguyen@mail.utoronto.ca)
-- [Arash Nourimand](https://www.linkedin.com/in/arash-nourimand/) (R&D Team: CAD-Fusion)
-- [Natasha Valenton](https://www.linkedin.com/in/natasha-valenton/) (R&D Team: CAD-Fusion)
-### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant
-- [Graham Roche-Nagle, Vascular Surgery, partner Panon Plastics](https://surgery.utoronto.ca/content/graham-roche-nagle)
+- [Arash Nourimand](https://www.linkedin.com/in/arash-nourimand/) (PR lead, industry funding)
+- [Natasha Valenton](https://www.linkedin.com/in/natasha-valenton/) (R&D Lead: CAD-Fusion)
+### Data Team
+- [Vince Nguyen]() (St Louis MD, Toronto MicroElectronics Partner, dataviz and message)
+- [Maggie Ziao]() (UAlberta MD, R data science)
+### UofT MD Program | Hamilton SoM ["3D-PPE-GTHA"](https://www.3dppegtha.ca) 
+- Student Body, Community Presence, Logistics
+- [Jessica Trac](https://www.linkedin.com/in/jessica-trac/) (R&D Team Coordinator)
+- [Andy Afenu](https://www.linkedin.com/in/andy-edem-afenu-72048597/) (R&D Team)
+- [Sinthu Senthillmohan](https://www.linkedin.com/in/sinthu-senthillmohan/) (Communications) 
+- [Yousuf Ahmed](https://www.linkedin.com/in/yousufahmed4/) (Communications)
+### UofT TEDA
+- [Yu Zou](https://www.linkedin.com/in/zouyubob/) (UofT MSE, Polymer Printing)
+- [Chandra Singh]() (UofT MSE|MIE, Fluid Dynamics Engineering)
 ### UHN Kotra Group | UofT Krembil Research
 - [Lakshmi Kotra](https://pharmacy.utoronto.ca/faculty/lakshmi-kotra) (Viral RT-PCR)
 ### CIGITI, SickKids - https://www.cigiti.ca
 - [Thomas Looi (Director)](https://www.linkedin.com/in/thomas-looi-ba657a8/)
 - [Brandon Peel (Design)](https://www.linkedin.com/in/brandonpeel/)
-### UofT MD Program | Hamilton SoM ["3D-PPE-GTHA"](https://www.3dppegtha.ca) 
-- Student Body, Community Presence, Logistics
-- Sinthu Senthillmohan, Yousuf Ahmed, et al. (Point of Contact)
-- Jessica Trac, et al. (R&D Team Coordinator)
-### UofT TEDA
-- Yu Zou (Materials Sciences, Polymer Printing)
-- Chandra Singh (Materials, Fluid Dynamics Engineering)
 ### Lakehead|[NOSM's Parallel Initiative](https://northernontarioppe.ca/) 
 - Andre LaFreniere (Engineering, Lakehead)
 - Chris Murray (Engineering, Lakehead)
@@ -218,10 +225,12 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Sameer Masood (Emergency Physician, UHN and Humber)
 - Expiratory TAVISH-like valve with filter
 - Aim to share filtering knowledge, testing results, combine human factors simulation.
-### Sick Kids Research
+### SickKids Research
 - Jason Maynes, SickKids Research Chair (Portacount lab), viral testing lab (TBC)
 
 ### Affiliates and Contacts
+#### UHN Vascular Surgery "Development of a non-disposable N95" - UHN AMO grant
+- [Graham Roche-Nagle, Vascular Surgery, partner Panon Plastics](https://surgery.utoronto.ca/content/graham-roche-nagle)
 #### Dr. Nanthakumar from TGH Cardiology 
 - offering 3DP machines' spare capacity and engineering help
 - Stephane Masse (3DP Engineer)
