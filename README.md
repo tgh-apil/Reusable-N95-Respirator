@@ -223,7 +223,7 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 ### Key Community Partners
 - Andrew Pho ([Lancotek](https://lancotek.com), manager)
 - James Garel Jones ([VertiGrow](https://vertigrow.io), Queen's co-designer)
-- Quang Nguyen, CEO [247 Security](https://www.247securityinc.com)
+- Quang Nguyen, CEO [247 Security](https://www.247securityinc.com), CEO [TME inc](http://tme-inc.com)
 - Steve Cory ([Objex Unlimited](https://objexunlimited.com/), CEO)
 ### GLIA NFP partner - https://glia.org
 - Carrie Wakem (Executive Director)
