@@ -27,14 +27,16 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - ~form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters~ pause on this design
 
 *Weekly focus*:
-- Volunteer testing: *SSM + AirGuard pass rate >95%, 3M ~75%, n=26.* 
+- HC MDEL (Nasa, Arash, Vahid, Will, Dorotea from GLIA)
+- Modified NIOSH at Gage (25 May 2020)
+- SSM Dual Port prototype with insp. and exp. silicone valves, +/- TAVISH valves from Sameeer
+- Volunteer testing: *SSM + AirGuard pass rate >99%, 3M N95 <75%, n=36.* 
 - Aim 5 iterations max for every 104 volunteers. (Will et al.)
 - TME Inc. with 2nd stop-gap for testing, TBC
 - modified NIOSH 19 or 20 May 2020
 - Reduce silicone load of SSM by 25%
-- SSM Dual Port prototype with insp. and exp. silicone valves, +/- TAVISH valves from Sameeer
 - Bayonet adapter prototype test 3M 2000 and 6000X series
-- Funding (MITCAs, OCE, NRC)
+- Funding (OCE awaiting vetting response, MITACS, NRC)
 
 *Filter Challenge*
 - 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start *now*. (Lakehead-NOSM Team Andre, Chris, Mike, Siamak; UofT R&D Team Arash, Chandra, Jessica, Nasa, Natasha, Yu; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
