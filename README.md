@@ -1,6 +1,6 @@
 Orig: [William Ng et al.](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
 
-Project: Reusable N95 Respirator aka "RNR", aka "Reusable N95 Stop-Gap" in the time of pandemic
+Project: Reusable N95 Respirator, aka "RNR", aka "Reusable N95 Stop-Gap" in the time of pandemic
 
 Last: 23 May 2020
 
@@ -34,18 +34,19 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Aim 5 iterations max for every 104 volunteers. (Will et al.)
 - TME Inc. with 2nd stop-gap for testing, TBC
 - modified NIOSH 19 or 20 May 2020
-- Reduce silicone load of SSM by 25%
-- Bayonet adapter prototype test 3M 2000 and 6000X series
 - Funding (OCE awaiting vetting response, MITACS, NRC)
 
 *Filter Challenge*
-- 2nd Leap: Dual flat filter in tightly-sealed cartridge system to increased surface area for airflow. We better start *now*. (Lakehead-NOSM Team Andre, Chris, Mike, Siamak; UofT R&D Team Arash, Chandra, Jessica, Nasa, Natasha, Yu; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
+- 2nd Leap (pre-clinical trial phase *now*): SSM Duo with dual OTS pleated HEPA filters, one-way valves to preserve filters, improve breathing and audio quality 
+- Then followed by alternative filter material, tightly-sealed cartridge system to increased surface area for airflow. (Lakehead-NOSM Team Andre, Chris, Mike, Siamak; UofT R&D Team Arash, Chandra, Jessica, Nasa, Natasha, Yu; also thanks Jake Bender from GLIA for [bayonet designs](https://www.thingiverse.com/thing:4302122))
+- Bayonet adapter prototype test 3M 2000 and 6000X series
 - 3rd Leap: Complete filter replacement solution.
 
 *Medium term challenge*:
 - Send samples to partners (lakehead, queen's, others who enquire)
 - Funding
 - Multi-site testing for reproducibility and validation.
+- Reduce silicone load of SSM by 25%
 - Industry partner(s) to produce own mask body and/or disseminate SSM and upscale option(s).
 - Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side (DAR, Intersurgical)
 - Comparative estimation of *Benefit*, *Cost* and *Time* to producing first 1000 units.
@@ -82,7 +83,7 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 ### Concordia (Wisconsin) masks
 - https://blog.cuw.edu/COVIDmasks/, both modification of Montana and dual-cartridge, folded 3DP models.
 
-## Prototype, Refinement [(Josh, Natasha, et al.)](#APILUHN)
+## Prototype, Refinement [(Natasha, Jess, Andy, et al.)](#APILUHN)
 - SSM ~Manitoba SSR~ M (S done) - 8 May 2020
 - *SSM Dual Port M - prototype required 20 May 2020*
 - Seal and fit problem - seal adequate 24 April 2020, comfort and breathabilith (nasal pad adjustment)
@@ -125,13 +126,14 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Silicone vs. Rubber (Industry)
 - Straps (Vahid)
 - Filter Material, Seams (Yu, Chandra, Matt)
-- Filter Adapter and Encasing (UofT R&D)
+- Filter Adapter and Encasing (TME, UofT R&D)
 
-## [Regulation and Standards](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/05-Regulation/Regulatory%20List.md)
-### ISO and CSA
+## [Regulation and Standards](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/05-Regulation/Regulatory%20List.md) (Nasa, Arash)
 ### Health Canada
 - [HC MDEL](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid19-personal-protective-equipment.html#a2), and 
 - [HC COVID-19 PPE](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid19-personal-protective-equipment.html)
+### ISO and CSA 
+- CSA Z94.4/18 for respirator fitting
 
 ## Budget
 ### Capital outlay
@@ -170,16 +172,17 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 
 ## Team
 ### UofT
-- [William Ng (Lead, Anesthesia, Principal Investigator @ UHN|APIL)](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
-- [Azad Mashari (Director of UHN APIL, Anesthesia)](www.anesthesia.utoronto.ca/content/azad-mashari)
-- [Andrew Syrett (Testing, Writer, Anesthesia)](doctors.cpso.on.ca/DoctorDetails/Syrett-Andrew-James/0295170-103261)
-- [Matt Ratto (TEDA Director)](https://ischool.utoronto.ca/profile/matt-ratto/) 
-- [Eric Greenwood (SickKids Advisor, Director of Equipment)](www.anesthesia.utoronto.ca/content/eric-greenwood)
-- [Devin Singh (Testing, Design input, Engineering PhD, Anesthesia)]()
-- [James Scott (OS & EH)](www.dlsph.utoronto.ca/faculty-profile/scott-james-a/)
+- [William Ng](www.anesthesia.utoronto.ca/faculty/william-ck-ng) (Lead, Anesthesia, Principal Investigator @ UHN|APIL)
+- [Azad Mashari](www.anesthesia.utoronto.ca/content/azad-mashari) (Director of UHN APIL, Anesthesia)
+- [Andrew Syrett](doctors.cpso.on.ca/DoctorDetails/Syrett-Andrew-James/0295170-103261) (Testing, Writer, Anesthesia)
+- [Arnaud Mbadjeu](www.anesthesia.utoronto.ca/sites/default/files/tgh_fellows_photos_jan_2020.pdf)
+- [Matt Ratto](https://ischool.utoronto.ca/profile/matt-ratto/) (TEDA Director)
+- [Eric Greenwood](www.anesthesia.utoronto.ca/content/eric-greenwood) (SickKids Advisor, Director of Equipment)
+- [Devin Singh]() (Filtration, Testing, Engineering|Anesthesia)
+- [James Scott](www.dlsph.utoronto.ca/faculty-profile/scott-james-a/) (OS & EH)
 - Alon Vaisman (UHN IPAC physician, UHN COVID-19 PPE team, UofT Infectious Diseases)
 - Dmitry Rozenberg (UHN Advisor, Respirology and Lung Transplant)
-- [Binu Jacobs (Senior Research Scientist)](www.linkedin.com/in/binu-jacob-98b53a95/)
+- [Binu Jacobs](www.linkedin.com/in/binu-jacob-98b53a95/) (Senior Research Scientist)
 ### APIL|UHN
 - UHN Advanced Perioperative Imaging Lab (https://apil.ca)
 - [Joshua Hiansen (Design Engineering, Print Lead)](www.linkedin.com/in/joshuaqh/)
@@ -189,8 +192,8 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - [Arash Nourimand](https://www.linkedin.com/in/arash-nourimand/) (PR lead, industry funding)
 - [Natasha Valenton](https://www.linkedin.com/in/natasha-valenton/) (R&D Lead: CAD-Fusion)
 ### Data Team
-- [Vince Nguyen]() (St Louis MD, Toronto MicroElectronics Partner, dataviz and message)
 - [Maggie Ziao]() (UAlberta MD, R data science)
+- [Vince Nguyen]() (St Louis MD, Toronto MicroElectronics Partner, dataviz and message)
 ### UofT MD Program | Hamilton SoM ["3D-PPE-GTHA"](https://www.3dppegtha.ca) 
 - Student Body, Community Presence, Logistics
 - [Jessica Trac](https://www.linkedin.com/in/jessica-trac/) (R&D Team Coordinator)
