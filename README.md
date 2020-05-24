@@ -22,18 +22,17 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 
 ## [Project Timeline](https://github.com/tgh-apil/Reusable-N95-Project/blob/master/00-Timeline/Timeline%20Projection%20N95.md)
 
-*Current focus*:
-- form-fit test Simple Silicone Respirator with Intersurgical AirGuard ~HME~ bacterial/viral filters focus on refining
+*Current focus*
+- form-fit test Simple Silicone Mask "SSM" c. InterSurgical AirGuard | Hydro-Mini ~HME~ HEPA filters: test & refine
 - ~form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters~ pause on this design
 
-*Weekly focus*:
+*Weekly focus*
 - HC MDEL (Nasa, Arash, Vahid, Will, Dorotea from GLIA)
-- Modified NIOSH at Gage (25 May 2020)
+- Modified NIOSH at Gage (week of 25 May 2020)
 - SSM Dual Port prototype with insp. and exp. silicone valves, +/- TAVISH valves from Sameeer
-- Volunteer testing: *SSM + AirGuard pass rate >99%, 3M N95 <75%, n=36.* 
+- Volunteer testing: *SSM + AirGuard pass rate >99%, 3M N95 <75%, n=43* 
 - Aim 5 iterations max for every 104 volunteers. (Will et al.)
-- TME Inc. with 2nd stop-gap for testing, TBC
-- modified NIOSH 19 or 20 May 2020
+- TME Inc. with 2nd stop-gap for testing (pass rate >90%)
 - Funding (OCE awaiting vetting response, MITACS, NRC)
 
 *Filter Challenge*
@@ -42,7 +41,7 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Bayonet adapter prototype test 3M 2000 and 6000X series
 - 3rd Leap: Complete filter replacement solution.
 
-*Medium term challenge*:
+*Medium term challenge*
 - Send samples to partners (lakehead, queen's, others who enquire)
 - Funding
 - Multi-site testing for reproducibility and validation.
