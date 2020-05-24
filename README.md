@@ -174,7 +174,7 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 ### UofT
 - [William Ng](www.anesthesia.utoronto.ca/faculty/william-ck-ng) (Lead, Anesthesia, Principal Investigator @ UHN|APIL)
 - [Azad Mashari](www.anesthesia.utoronto.ca/content/azad-mashari) (Director of UHN APIL, Anesthesia)
-- [Andrew Syrett](doctors.cpso.on.ca/DoctorDetails/Syrett-Andrew-James/0295170-103261) (Testing, Writer, Anesthesia)
+- [Andrew Syrett](doctors.cpso.on.ca/DoctorDetails/Syrett-Andrew-James/0295170-103261) (Writer, Anesthesia, Testing)
 - [Arnaud Mbadjeu](www.anesthesia.utoronto.ca/sites/default/files/tgh_fellows_photos_jan_2020.pdf)
 - [Matt Ratto](https://ischool.utoronto.ca/profile/matt-ratto/) (TEDA Director)
 - [Eric Greenwood](www.anesthesia.utoronto.ca/content/eric-greenwood) (SickKids Advisor, Director of Equipment)
@@ -189,8 +189,8 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - [Vahid Anwari (Production, Biomedical Engineer)](www.linkedin.com/in/vahid-anwari-3763973)
 ### UofT School of Applied Science & Engineering
 - [Nasa Nguyen](https://www.linkedin.com/in/nasanguyen/) (Project Manager), [email](mailto:nasa.nguyen@mail.utoronto.ca)
-- [Arash Nourimand](https://www.linkedin.com/in/arash-nourimand/) (PR lead, industry funding)
-- [Natasha Valenton](https://www.linkedin.com/in/natasha-valenton/) (R&D Lead: CAD-Fusion)
+- [Natasha Valenton](https://www.linkedin.com/in/natasha-valenton/) (R&D Lead: Fusion, CAD)
+- [Arash Nourimand](https://www.linkedin.com/in/arash-nourimand/) (PR Lead, industry funding)
 ### Data Team
 - [Maggie Ziao]() (UAlberta MD, R data science)
 - [Vince Nguyen]() (St Louis MD, Toronto MicroElectronics Partner, dataviz and message)
@@ -219,6 +219,7 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Victoria McKinnon (MD Program, Inksmith)
 - Samveg Shah (MD Program, Engineering)
 - Lawrence Porter (Sheridan College, School of Engineering)
+- (Andrew Syrett moving to McMaster, St Joseph's Hospital in July 2020)
 ### [Queen's Parallel Initiative](http://ppekingston.squarespace.com/) (SoM)
 - Cesia Quintero & Megan Singh & Matt Snow (Founders)
 - Taylor Sweet (YGK 3D, co-designer)
@@ -250,13 +251,12 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Stephane Masse (3DP Engineer)
 #### [Manitoba Health Sciences Centre](https://github.com/cpetropolis/Simple-Silicone-Respirator)
 - Christian Petropolis (3DP Mask Lead, Plastics Surgery)
-- We agree to be their Ontario Partner
+- SSR had HC approval 19 May, 2020. We agreed to be their Ontario Partner April 2020.
+#### NHH (Northumberland Hills Hospital)
+- Mukesh Bhargava (Director)
 #### Other Industry
 - Rick Struthers (True North PP, owner)
 - Lucia Iannantuono (McMaster Engineering, TN 3S)
 - Brian Read (ex-plastcs; industry co-ordinator) 
 #### Woodbridge indsutry, CEO Bob Magee
 - VP (NVH) Martin Mazza - Technical POC regarding filter
-#### NHH (Northumberland Hills Hospital)
-- Mukesh Bhargava (Director)
-
