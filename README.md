@@ -2,7 +2,7 @@ Orig: [William Ng et al.](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
 
 Project: Reusable N95 Respirator, aka "RNR", aka "Reusable N95 Stop-Gap" in the time of pandemic
 
-Last: 23 May 2020
+Last: 27 May 2020
 
 Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-the-time-of-covid-19-a615be38eb31?sk=8cc15ac6d79773021198b74c7c400207)
 
@@ -25,15 +25,17 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 *Current focus*
 - form-fit test Simple Silicone Mask "SSM" c. InterSurgical AirGuard | Hydro-Mini ~HME~ HEPA filters: test & refine
 - ~form-fit test APIL NIH Unibody Silicone Respirator with HME bacterial/viral filters~ pause on this design
+- UHN PPE committee review of SSM as part of 3M N95 conservation strategy
 
 *Weekly focus*
 - HC MDEL (Nasa, Arash, Vahid, Will, Dorotea from GLIA)
 - Modified NIOSH at Gage (week of 25 May 2020)
-- SSM Dual Port prototype with insp. and exp. silicone valves, +/- TAVISH valves from Sameeer
-- Volunteer testing: *SSM + AirGuard pass rate >99%, 3M N95 <75%, n=43* 
+- SSM Duo prototype with insp. and exp. silicone valves, +/- TAVISH valves from Sameeer
+- Volunteer testing: *SSM + AirGuard pass rate >99%, 3M N95 <75%, n=44* 
 - Aim 5 iterations max for every 104 volunteers. (Will et al.)
 - TME Inc. with 2nd stop-gap for testing (pass rate >90%)
-- Funding (OCE awaiting vetting response, MITACS, NRC)
+- Funding (OCE vetting done, proposal due 11 Jun 2020, MITACS, NRC)
+- 1st paper on Conception and Production of SSM (Vahid/Arnaud), 2nd paper on Subject Validation of SSM as "Reusable N95 StopGap" (Andrew/Will)
 
 *Filter Challenge*
 - 2nd Leap (pre-clinical trial phase *now*): SSM Duo with dual OTS pleated HEPA filters, one-way valves to preserve filters, improve breathing and audio quality 
@@ -44,8 +46,8 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 *Medium term challenge*
 - Send samples to partners (lakehead, queen's, others who enquire)
 - Funding
-- Multi-site testing for reproducibility and validation.
-- Reduce silicone load of SSM by 25%
+- Multi-site testing for reproducibility and validation: *on hold*.
+- Reduce silicone load of SSM by 25% and reduce production time and labour
 - Industry partner(s) to produce own mask body and/or disseminate SSM and upscale option(s).
 - Medical Grade filter sourcing, preferred non-HME as they produce condensation on wearer-side (DAR, Intersurgical)
 - Comparative estimation of *Benefit*, *Cost* and *Time* to producing first 1000 units.
@@ -232,7 +234,8 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - Steve Cory ([Objex Unlimited](https://objexunlimited.com/), CEO)
 ### GLIA NFP partner - https://glia.org
 - Carrie Wakem (Executive Director)
-- Jessica Schroeder (Mattermost)
+- Dorotea Gucciardo (HC MDEL)
+- Jessica and Andrew Schroeder (Mattermost, R&D)
 - Jake Bender (LHSC)
 - ~Seeking joint grant proposal for Peter Munk Innovation Fund (Aim for 19 April 2020)~ (CV focus)
 #### EM|UHN
