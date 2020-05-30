@@ -1,10 +1,11 @@
 Orig: Andrew Syrett
-
-Last: 1 May 2020, Will Ng
+Last: 29 May 2020, Will Ng
+Title: Testing Contact List
 
 Upload as Markdown: Will
 
 # Commercial Equipment incl. ASTM
+- [Nelson Labs, Utah](https://www.nelsonlabs.com/)
 - [Cambridge Testing, Missasauga](http://www.cambridgematerials.com/)
 - [Element (Material and Mechanical Testing)](https://www.element.com/locations/the-americas/burlington)
 - [NTS Automotive Testing](https://www.nts.com/location/kitchener-ontario/) (incl. biological, need mroe details)
