@@ -188,7 +188,7 @@ Read: [Article on Medium](https://medium.com/@williamckng/stop-gap-n95-mask-in-t
 - [Binu Jacobs](www.linkedin.com/in/binu-jacob-98b53a95/) (Senior Research Scientist)
 ### APIL|UHN
 - UHN Advanced Perioperative Imaging Lab (https://apil.ca)
-- [Joshua Hiansen (Design Engineering, Print Lead)](www.linkedin.com/in/joshuaqh/)
+- [Joshua Hiansen (Design Engineering, Print Lead)]
 - [Vahid Anwari (Production, Biomedical Engineer)](www.linkedin.com/in/vahid-anwari-3763973)
 ### UofT School of Applied Science & Engineering
 - [Nasa Nguyen](https://www.linkedin.com/in/nasanguyen/) (Project Manager), [email](mailto:nasa.nguyen@mail.utoronto.ca)
