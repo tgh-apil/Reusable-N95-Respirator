@@ -2,7 +2,7 @@ Orig: [William Ng et al.](www.anesthesia.utoronto.ca/faculty/william-ck-ng)
 
 Project: Reusable N95 Respirator, aka "RNR", aka "Reusable N95 Stop-Gap" in the time of respiratory viral pandemic
 
-Note: The SSM and SSM Duo reusable N95 respirator are experimental medical devices that have been subject validated in 40 and 42 volunteers at a single institutionand are inteded for pandemic disaster use after firstline disposable N95 respirators; they have not been officially uptaken by the originating institution.
+Note: The SSM and SSM Duo reusable N95 respirator are experimental medical devices that have been subject validated in 40 and 42 volunteers at a single institution and are intended for pandemic disaster use after firstline disposable N95 respirators; they have not been endorsed by the originating health institution.
 
 Last: 6 Jul 2020
 
