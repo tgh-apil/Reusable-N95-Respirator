@@ -8,7 +8,7 @@
 Note: The latter two are are about the stop-gap mask - keep those?
 
 ## Documentation
-This reusable, locally-manufactured, and open-hardware-licensed N95 respirator was developed in response to the widespread shortages of N95 respirators and other personal protective equipment (PPE) caused by the COVID-19 pandemic. The source files can be found in the [repository](https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/source%20files).
+This reusable, locally-manufactured, and open-hardware-licensed N95 respirator was developed in response to the widespread shortages of N95 respirators and other personal protective equipment (PPE) caused by the COVID-19 pandemic. The source files can be found in the [repository](https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/source%20files) or [maybe here. unclear. note: ask about this](https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/02-Design%20Types/Simple%20Silicone%20Mask%20%22SSM%22).
 
 ### Funding
 
