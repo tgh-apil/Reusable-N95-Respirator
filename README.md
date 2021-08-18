@@ -10,16 +10,16 @@ The Simple Silicone Mask (SSM) and SSM Duo reusable N95 respirators are experime
 Note: The latter two are are about the stop-gap mask - keep those?
 
 # Documentation
-This reusable, locally-manufactured, and open-hardware-licensed N95 respirator was developed in response to the widespread shortages of N95 respirators and other personal protective equipment (PPE) caused by the COVID-19 pandemic. The source files can be found in the [repository](https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/source%20files) or [maybe here. unclear. note: ask about this](https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/02-Design%20Types/Simple%20Silicone%20Mask%20%22SSM%22).
+This reusable, locally-manufactured, and open-hardware-licensed N95 respirator was developed in response to the widespread shortages of N95 respirators and other personal protective equipment (PPE) caused by the COVID-19 pandemic. The source files can be found in the [repository](https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/source%20files) or [maybe here. unclear. note: ask about this](https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/02-Design%20Types/Simple%20Silicone%20Mask%20%22SSM%22), along with reference designs [here](https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/11-References).
 
-## Funding
+### Funding
 No funding was received for this project. (got this from the March 2021 PLOS publication, unsure if that's still true)
 
-## Production
-https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/03-Production
+### Production
+Production information, including a parts list, can be found [here](https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/03-Production) in the repository.
 
-## Decontamination
-https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/06-Decontamination
+### Decontamination
+Decontamination protocols and related references and information can be found [here](https://github.com/tgh-apil/Reusable-N95-Respirator/tree/master/06-Decontamination) in the repository.
 
 # Development Team & Collaborators
 The SSM design was initially based on the [Simple Silicone Respirator (SSR)](https://github.com/cpetropolis/Simple-Silicone-Respirator) designed by Dr. Christian Petropolis at the University of Manitoba. 
