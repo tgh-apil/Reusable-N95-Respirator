@@ -1,6 +1,8 @@
 # Reusable N95 Respirator
 An open-source, reusable N95 respirator that can be manufactured at scale in small community or hospital-based facilities, using 3D printing, silicone casting and standard HME filters.
 
+Developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab, Toronto General Hospital](https://apil.ca).
+
 # DISCLAIMER
 
 This is an **INVESTIGATIONAL MEDICAL DEVICE** being evaluated for use
