@@ -4,7 +4,6 @@ An open-source, reusable N95 respirator that can be manufactured at scale in sma
 Developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab, Toronto General Hospital](https://apil.ca).
 
 # DISCLAIMER
-
 This is an **INVESTIGATIONAL MEDICAL DEVICE** being evaluated for use
 in hospital setting during **extreme crisis** leading to N95
 shortages.
@@ -17,10 +16,6 @@ including the ones where it was developed and tested.
 We have made every effort to make the system as safe as possible and to
 provide documentation and educational materials for its use, should it be
 necessary, in order to minimize the very significant risks of iatrogenic harm.
-
-Any clinical application requires close monitoring of patients by automated 
-systems and living, breathing care providers familiar with the system and its 
-hazards.
 
 It is posted here in order to facilitate rapid knowledge sharing and research
 on strategies for addressing the global ventilator shortages.
